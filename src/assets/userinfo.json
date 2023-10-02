@@ -1,0 +1,3407 @@
+{
+    "events": [
+        {
+            "trader": {
+                "address": "0xf7720236e0f55e62dfd94822dd9ecef7dbb32f7c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1483251191664771074/WjQsnr3z.jpg",
+                "username": "ethan0x8699",
+                "name": "0x8699"
+            },
+            "subject": {
+                "address": "0x8d2ceee82bcc7253bb579c55d3e42b9150bbb8a5",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708169120389177344/0_GrpuZk.jpg",
+                "username": "0xKillTheWollf",
+                "name": "杀破狼 killthewolf.eth"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257237547
+        },
+        {
+            "trader": {
+                "address": "0xdcce77766062bdc0c1494c6dc864e33a7474a438",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1688489793007820800/RTD_v6PM.jpg",
+                "username": "calchulus",
+                "name": "Calvin | Impossible is always BUIDLing"
+            },
+            "subject": {
+                "address": "0xdeaf26b1d15cce92602ad946e33c2f73502bd13e",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1657703163024257025/jfLemCJp.jpg",
+                "username": "4adybug",
+                "name": "Chang"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "27562500000000000",
+            "createdAt": 1696257237897
+        },
+        {
+            "trader": {
+                "address": "0x0dfc015fbec506277d812e9b578ab3ee5174a25f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1572541215626743815/0JkhYl43.jpg",
+                "username": "A_realmadridcf",
+                "name": "Ali.s"
+            },
+            "subject": {
+                "address": "0xc796430cbb6a820ae8e56d7e405d9c5e3dfbb180",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1610446003337056258/v1vp-dDO.jpg",
+                "username": "rnikko60",
+                "name": "ray/Suiswap/okx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257237944
+        },
+        {
+            "trader": {
+                "address": "0xda1e075e91e5f27c7caa20c6c80048b4aaf2bc39",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1428782506749227008/jclNbE4M.jpg",
+                "username": "carter0x2",
+                "name": "Carter"
+            },
+            "subject": {
+                "address": "0x1d6e90298eb3f5c7dcc9d8ee48d20470aec5d282",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1683637456493740032/NWetiF_c.jpg",
+                "username": "0xPhoenixCap",
+                "name": "Phoenix Capital Management"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "203062500000000000",
+            "createdAt": 1696257236146
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xaaf732570b0544206c9666e19beefb1423e6b960",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522094790472441856/MrfOL-4t.jpg",
+                "username": "Virgini40142907",
+                "name": "Virginia Barrett"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257236407
+        },
+        {
+            "trader": {
+                "address": "0xb86ea697fea9b70f49f49f2ee0ab2e08eb375ed2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1658106750116020224/Ezb4yFpe.png",
+                "username": "AltJaqen",
+                "name": "Alt. 💎⚡️"
+            },
+            "subject": {
+                "address": "0x466348b7cc761075437c274a81c7a03522e5ca24",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1699800874191646720/23DosTn7.jpg",
+                "username": "rostamianhojja",
+                "name": "rostam💎⚡"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257230733
+        },
+        {
+            "trader": {
+                "address": "0x8f48e07202afd1d0af1548edfc081563547e79eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655860083983626241/imNs1znd.jpg",
+                "username": "cryptojamie7",
+                "name": "CryptoJamie"
+            },
+            "subject": {
+                "address": "0x4fd6a9f5a0837cfe36906a3d8924cd49ebc77738",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708850835025756160/7c-RrT6e.jpg",
+                "username": "Ftx1180",
+                "name": "Ftx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257230753
+        },
+        {
+            "trader": {
+                "address": "0x5618c8604243dcc4f73feb93787d8e2a44e1d1b0",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1596881005633327108/v_AP4rr0.jpg",
+                "username": "ChrisHallv5",
+                "name": "Angel Bright 🪶"
+            },
+            "subject": {
+                "address": "0x47b833cdffe0fd750851a7d52cee9fbfd72ff018",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655589059639533575/PQWEyNB5.jpg",
+                "username": "pedagang_eth",
+                "name": "pedagang.eth (PG) | !SKULLS"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257230742
+        },
+        {
+            "trader": {
+                "address": "0xbf4ad238ca88cd6cd5f914f099baec7d644c3d33",
+                "pfpUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+                "username": "saintstilinski",
+                "name": "uh"
+            },
+            "subject": {
+                "address": "0x6cb470288710597280af3143de004229c91a2442",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/729421989602050048/dF6A8d-a.jpg",
+                "username": "Malulera194",
+                "name": "MalúMyLife"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257227405
+        },
+        {
+            "trader": {
+                "address": "0xd181f24c67f24542918ecf7b8d53c38dc0330f50",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1691137227823403008/WU_Kxn1g.jpg",
+                "username": "olive_jaden",
+                "name": "moyamoya.eth. fuel🔥🟩 ⚡️💚🌙"
+            },
+            "subject": {
+                "address": "0xa2ab947336121e48988875b1f35920467c0bd600",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1668625980423036929/xm7eWFbV.jpg",
+                "username": "patrickamadon",
+                "name": "Patrick Amadon"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "115562500000000000",
+            "createdAt": 1696257227405
+        },
+        {
+            "trader": {
+                "address": "0x5805905c18a775811118fddc5106a7e7d6481bae",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1640688160937050113/JjlDmtNk.jpg",
+                "username": "hetiyje",
+                "name": "htyj"
+            },
+            "subject": {
+                "address": "0x4d13a764db0c89c4cbc4567a8511616d40ae9f1f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1704728508193452032/fT7v4vaK.png",
+                "username": "NFT_DUDU",
+                "name": "DUDU🐸"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "64000000000000000",
+            "createdAt": 1696257227425
+        },
+        {
+            "trader": {
+                "address": "0x195fe03cd66b60a266fa22d9e35cafdeb4de9796",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656769263448064/8kXV3fCT.png",
+                "username": "bangsatloeman",
+                "name": "Bangsat Loe Man"
+            },
+            "subject": {
+                "address": "0x58b23f44aac186f91117f612708127598714785c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/611549218633818112/B4ZFG0Fs.jpg",
+                "username": "goerke868",
+                "name": "Hotham"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "60062500000000000",
+            "createdAt": 1696257227094
+        },
+        {
+            "trader": {
+                "address": "0x642cff2261dba1ab5a6effc671ad47f0cbb5b978",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/443811255040491520/ON_kyOZl.jpeg",
+                "username": "davidanderson72",
+                "name": "David Anderson"
+            },
+            "subject": {
+                "address": "0x642cff2261dba1ab5a6effc671ad47f0cbb5b978",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/443811255040491520/ON_kyOZl.jpeg",
+                "username": "davidanderson72",
+                "name": "David Anderson"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "4000000000000000",
+            "createdAt": 1696257227404
+        },
+        {
+            "trader": {
+                "address": "0x8142f2d6626ec21a95d05f37c1fa96fea90ac170",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1703970216429146112/c2QBihFQ.jpg",
+                "username": "yeemenggg",
+                "name": "yeemeng"
+            },
+            "subject": {
+                "address": "0x8cb8ecf320f4e054167c70e9d5c6989464952682",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1643003416061571073/8hhrJzgU.jpg",
+                "username": "stevenyuntcap",
+                "name": "Steven | Yunt Capital"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1024000000000000000",
+            "createdAt": 1696257227404
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xa293e165665c9bf21ec3de2c173bce6333555b6f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1703802310374182912/1FkptkuN.jpg",
+                "username": "mccontrolsNFT",
+                "name": "MCC3 - mccontrols.eth"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257227085
+        },
+        {
+            "trader": {
+                "address": "0x306a5526a0a9393da720caec56190ccef232b13e",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1679100286437081088/0givs1F_.jpg",
+                "username": "error_0x404",
+                "name": "I'm 404"
+            },
+            "subject": {
+                "address": "0x64396166e09371e84e281e84d57fa48dcc1b2d7d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1679706279369924609/JXu6fk3J.jpg",
+                "username": "MichelleMo89249",
+                "name": "Michelle Montgomery"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257222149
+        },
+        {
+            "trader": {
+                "address": "0x9450f5e469ea2572423b3aa748a5b00090e7a924",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708802829555535872/gpx-Z2UA.jpg",
+                "username": "JackieJack434",
+                "name": "Jackie"
+            },
+            "subject": {
+                "address": "0x4a1afad10a836ce3daf2baff6e0e6c64828d68d3",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1702391977587748864/Y4CUUS_y.jpg",
+                "username": "Bhuvajaydip3",
+                "name": "Bhuva jaydip"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "12250000000000000",
+            "createdAt": 1696257222194
+        },
+        {
+            "trader": {
+                "address": "0xd38c44c6bfd2891f3b957c92f9454d6da7426897",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708808356972941312/Zcv3v9kc.jpg",
+                "username": "newdar777",
+                "name": "(👀,👀)"
+            },
+            "subject": {
+                "address": "0x4fd6a9f5a0837cfe36906a3d8924cd49ebc77738",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708850835025756160/7c-RrT6e.jpg",
+                "username": "Ftx1180",
+                "name": "Ftx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257222192
+        },
+        {
+            "trader": {
+                "address": "0xb9eed702d3451cc2d5439a4d741b220921b529e3",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1605864931953639426/fNSj7qLz.jpg",
+                "username": "SuperL9",
+                "name": "Wick李💎⚡️"
+            },
+            "subject": {
+                "address": "0xb1581dffd895ba3bc8eec1a221e85894f1040c97",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522076483639939072/l7WZN2xY.jpg",
+                "username": "enid_motley",
+                "name": "Enid Motley"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257222060
+        },
+        {
+            "trader": {
+                "address": "0xbae787261bb7708977819dd2ba1da3f9bd5a5ce7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1601437219830566914/H65bEWiC.jpg",
+                "username": "lootsack",
+                "name": "lootsack"
+            },
+            "subject": {
+                "address": "0x9c0247f94ca4db784f0e641d8a0c653db843135f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1705311395653312512/FifFTv7g.jpg",
+                "username": "MaksimLevada",
+                "name": "sat🍕️.eth"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "12250000000000000",
+            "createdAt": 1696257222189
+        },
+        {
+            "trader": {
+                "address": "0x8f48e07202afd1d0af1548edfc081563547e79eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655860083983626241/imNs1znd.jpg",
+                "username": "cryptojamie7",
+                "name": "CryptoJamie"
+            },
+            "subject": {
+                "address": "0x82db029431ce333590fcd78460405f18afe96681",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1595073122646081536/MaaH5YGB.jpg",
+                "username": "denzy_de",
+                "name": "gokdeniz.lens(🌸, 🌿)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257222117
+        },
+        {
+            "trader": {
+                "address": "0xa02c10afe8a2de2eaf2f6e17adcedb98d1b6af5c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1685747881523773440/iLg1HJzg.jpg",
+                "username": "ghostynfter",
+                "name": "Ghosty"
+            },
+            "subject": {
+                "address": "0xd77f17e7a56c8f4d7165dad3edb2936619c5ae70",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1612315170692366337/UIKloBZD.jpg",
+                "username": "bribe",
+                "name": "gc"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "248062500000000000",
+            "createdAt": 1696257218487
+        },
+        {
+            "trader": {
+                "address": "0x4fd6a9f5a0837cfe36906a3d8924cd49ebc77738",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708850835025756160/7c-RrT6e.jpg",
+                "username": "Ftx1180",
+                "name": "Ftx"
+            },
+            "subject": {
+                "address": "0x4fd6a9f5a0837cfe36906a3d8924cd49ebc77738",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708850835025756160/7c-RrT6e.jpg",
+                "username": "Ftx1180",
+                "name": "Ftx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "0",
+            "createdAt": 1696257218415
+        },
+        {
+            "trader": {
+                "address": "0x882b32cbf31a6462eea0acca986623c8b410122a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1567496813283889153/ISYp1gqW.jpg",
+                "username": "NFTMetaverses",
+                "name": "NFTM"
+            },
+            "subject": {
+                "address": "0x1be56a2088fa0b53352d031cede2b0103f2762fd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708811053713539072/B-bkdnZi.jpg",
+                "username": "veyraina",
+                "name": "vey.ETH 💰💎"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257218494
+        },
+        {
+            "trader": {
+                "address": "0xf88ea996cd456f7ac57192e12eafe3d1ed51bffb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1707755678549368833/hC333PRs.jpg",
+                "username": "leenellson_eth",
+                "name": "Tama"
+            },
+            "subject": {
+                "address": "0x0c16ba5340d41e6c1fd8bd7e3d50402410be0f8d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1695940275921899520/CDB5Vr3l.jpg",
+                "username": "EdmTzy",
+                "name": "EdmT"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "95062500000000000",
+            "createdAt": 1696257218763
+        },
+        {
+            "trader": {
+                "address": "0x64396166e09371e84e281e84d57fa48dcc1b2d7d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1679706279369924609/JXu6fk3J.jpg",
+                "username": "MichelleMo89249",
+                "name": "Michelle Montgomery"
+            },
+            "subject": {
+                "address": "0x64396166e09371e84e281e84d57fa48dcc1b2d7d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1679706279369924609/JXu6fk3J.jpg",
+                "username": "MichelleMo89249",
+                "name": "Michelle Montgomery"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257218433
+        },
+        {
+            "trader": {
+                "address": "0x7626bd73be0b708927fa12b062fb3d65b8faba6b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701993253950611460/3VlpCxBz.jpg",
+                "username": "const_phoenixed",
+                "name": "constant"
+            },
+            "subject": {
+                "address": "0x9f6d8759c961cd185c8dabc9c51acc2637c6513f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1512487793515134979/_ZwCdYUz.jpg",
+                "username": "KOR_JEJE",
+                "name": "JeJe💎⚡️"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "90250000000000000",
+            "createdAt": 1696257218475
+        },
+        {
+            "trader": {
+                "address": "0x7626bd73be0b708927fa12b062fb3d65b8faba6b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701993253950611460/3VlpCxBz.jpg",
+                "username": "const_phoenixed",
+                "name": "constant"
+            },
+            "subject": {
+                "address": "0x9f6d8759c961cd185c8dabc9c51acc2637c6513f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1512487793515134979/_ZwCdYUz.jpg",
+                "username": "KOR_JEJE",
+                "name": "JeJe💎⚡️"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "90250000000000000",
+            "createdAt": 1696257218475
+        },
+        {
+            "trader": {
+                "address": "0xf9c0cc0ffd4430025ec89a732b3cf4dd1c6dd546",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1629637629896699904/lEPO1st_.jpg",
+                "username": "tarame_000",
+                "name": "たらめ!"
+            },
+            "subject": {
+                "address": "0xb10b290fba3112c98cd7909dbeeadfb243b8ff79",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686055518622695437/WExklLqn.jpg",
+                "username": "MichelleRe76357",
+                "name": "Michelle Reynoso"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257218442
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xf3da84b29e42fbc54eed72632e05d3ca02678b4d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/2184191454/pj.jpg",
+                "username": "enejapj",
+                "name": "pj eneja/Suiswap/okx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257218786
+        },
+        {
+            "trader": {
+                "address": "0x4dca99a03c28fd84b90c04832c79baeec3917c18",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1696268727770083328/KZoAAFeg.jpg",
+                "username": "0xflashyflash",
+                "name": "flashyflash 💎⚡️"
+            },
+            "subject": {
+                "address": "0xa7d0b67ff46fc2487966d1a74aae0c4074b92d6d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1534121877039357953/GK4nGyUb.jpg",
+                "username": "Double_Chips",
+                "name": "DoubleChips 💎 ⚡️"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "4000000000000000",
+            "createdAt": 1696257214921
+        },
+        {
+            "trader": {
+                "address": "0x24f27ec53cd724fde913184ef7f3202866a78293",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1612741327069782016/xMz6QxSV.jpg",
+                "username": "dadam_art",
+                "name": "𝘥𝘢-𝘥𝘢𝘮"
+            },
+            "subject": {
+                "address": "0x3498b8b0ef16c4d0c6616f397fd8d58d424335cf",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1615310786611511297/UyBufoqt.jpg",
+                "username": "xmioart",
+                "name": "MIO"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "39062500000000000",
+            "createdAt": 1696257215056
+        },
+        {
+            "trader": {
+                "address": "0xc9b55e75d350ae2f9a3f2f9632adeefc30079612",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1660839407400677376/CcUWoqyW.jpg",
+                "username": "pllexity",
+                "name": "plex"
+            },
+            "subject": {
+                "address": "0xac90e644d32f41044b119c7196b31f9c04eb6ad7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1705198540253790208/3Zz8nzN5.jpg",
+                "username": "pleasestopppfr",
+                "name": "Tuzh🐊"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "7562500000000000",
+            "createdAt": 1696257214747
+        },
+        {
+            "trader": {
+                "address": "0x65651809f013d9a400daca02d478b47fcb5471fb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1702036954467205120/0XAbvKXw.jpg",
+                "username": "Susuzeth200",
+                "name": "Susu"
+            },
+            "subject": {
+                "address": "0xc38b3b609bac9f6baae5bf29c9d1719d00324514",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1673592383504564227/iDKTvx0k.jpg",
+                "username": "Caman_btc",
+                "name": "Caman.♥TraditioNow"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "9000000000000000",
+            "createdAt": 1696257215057
+        },
+        {
+            "trader": {
+                "address": "0x195fe03cd66b60a266fa22d9e35cafdeb4de9796",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656769263448064/8kXV3fCT.png",
+                "username": "bangsatloeman",
+                "name": "Bangsat Loe Man"
+            },
+            "subject": {
+                "address": "0xaafc5322eeec96c6081dcc68fb749997f8439caa",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1703682373962063872/KcClmpJ3.jpg",
+                "username": "foatpsbaryvxqob",
+                "name": "Joseph Lee"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "100000000000000000",
+            "createdAt": 1696257214658
+        },
+        {
+            "trader": {
+                "address": "0x415f29695ac051450a306c543d4337a1996e7822",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1544670935172751363/myuXnLnX.jpg",
+                "username": "mrghostinvblog",
+                "name": "mr.ghost"
+            },
+            "subject": {
+                "address": "0x4842031c0f9c7f47727365383b6ddf46e509bdff",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1553288133579780096/iUwyZ_zY.jpg",
+                "username": "xcl2022",
+                "name": "徐冲浪"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "473062500000000000",
+            "createdAt": 1696257214716
+        },
+        {
+            "trader": {
+                "address": "0x5d1d1a61c8c160a6931ce437ccf4f5a5962a56eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1675388674593402881/aP-NDeeL.png",
+                "username": "elonczsun",
+                "name": "biggermeow.HK🇭🇰(💙,🧡)🦇🔊🧙🏿‍♂️"
+            },
+            "subject": {
+                "address": "0x748d10ba75cd882932d3721a75d292ca58f70bd3",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1428174556250836993/siXcwBhA.jpg",
+                "username": "shentuao",
+                "name": "区块链神吐槽 tucaodcom"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "60062500000000000",
+            "createdAt": 1696257211075
+        },
+        {
+            "trader": {
+                "address": "0x1b289355592df59ff5fcc0bc3bd3bb3f8779a81c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1699759462947356672/mat7XpEj.jpg",
+                "username": "sexpizzazombies",
+                "name": "Sex pizza & zombie music"
+            },
+            "subject": {
+                "address": "0xb1581dffd895ba3bc8eec1a221e85894f1040c97",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522076483639939072/l7WZN2xY.jpg",
+                "username": "enid_motley",
+                "name": "Enid Motley"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257211122
+        },
+        {
+            "trader": {
+                "address": "0x5b4e636dccf10539122b858e5b0aea095a2222f2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1702160614490013696/xlwJHJY4.jpg",
+                "username": "jehvin368916",
+                "name": "jehvin368916"
+            },
+            "subject": {
+                "address": "0xb5a7b94c280da5894d239d66318f798cc31651dd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1650064744576073728/Xzo3-1hP.jpg",
+                "username": "IC_Karmaksana",
+                "name": "Icarus Lai"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "14062500000000000",
+            "createdAt": 1696257211355
+        },
+        {
+            "trader": {
+                "address": "0x23bdda65ec1f92fafaf56c4189d23d99cbc23fb4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708842863188905984/vNU4rAUV.png",
+                "username": "Miirro1225",
+                "name": "Mirro/神社主理人"
+            },
+            "subject": {
+                "address": "0x23bdda65ec1f92fafaf56c4189d23d99cbc23fb4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708842863188905984/vNU4rAUV.png",
+                "username": "Miirro1225",
+                "name": "Mirro/神社主理人"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257211065
+        },
+        {
+            "trader": {
+                "address": "0xdb93a3ae786e65e52ed6f018888d6442a38b7f64",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1583363938598756352/rFkkBie6.jpg",
+                "username": "linepopask",
+                "name": "linepopask"
+            },
+            "subject": {
+                "address": "0xc948a80f2d755693bd4dd751c4f17a83255904ab",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686864664125227008/iO4gZYfD.jpg",
+                "username": "MiguelGreg94187",
+                "name": "Miguel Gregg"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257211100
+        },
+        {
+            "trader": {
+                "address": "0x8f48e07202afd1d0af1548edfc081563547e79eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655860083983626241/imNs1znd.jpg",
+                "username": "cryptojamie7",
+                "name": "CryptoJamie"
+            },
+            "subject": {
+                "address": "0x700c1ce21d2ff1c521470290dd6473f2a2152dcd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1671515896387338246/vF8I8fJU.jpg",
+                "username": "zizabac",
+                "name": "ziz"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257211124
+        },
+        {
+            "trader": {
+                "address": "0x84965aa2c70d46d9dda6398577d2a88ac63ced22",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708849255325036544/D6e3IPYn.jpg",
+                "username": "TheLab_L",
+                "name": "The Lab (Trading Bot)"
+            },
+            "subject": {
+                "address": "0x84965aa2c70d46d9dda6398577d2a88ac63ced22",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708849255325036544/D6e3IPYn.jpg",
+                "username": "TheLab_L",
+                "name": "The Lab (Trading Bot)"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257211134
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x8bdb0fc2a5733963365e85e6b12e92fe01bdcacd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1571503180118200323/eZ1wdxaJ.jpg",
+                "username": "MllekarjunB",
+                "name": "Mllekarjun Bhujbal starkgivemestark.stark"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257211075
+        },
+        {
+            "trader": {
+                "address": "0xc948a80f2d755693bd4dd751c4f17a83255904ab",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686864664125227008/iO4gZYfD.jpg",
+                "username": "MiguelGreg94187",
+                "name": "Miguel Gregg"
+            },
+            "subject": {
+                "address": "0xc948a80f2d755693bd4dd751c4f17a83255904ab",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686864664125227008/iO4gZYfD.jpg",
+                "username": "MiguelGreg94187",
+                "name": "Miguel Gregg"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "0",
+            "createdAt": 1696257210959
+        },
+        {
+            "trader": {
+                "address": "0x306a5526a0a9393da720caec56190ccef232b13e",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1679100286437081088/0givs1F_.jpg",
+                "username": "error_0x404",
+                "name": "I'm 404"
+            },
+            "subject": {
+                "address": "0xb10b290fba3112c98cd7909dbeeadfb243b8ff79",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686055518622695437/WExklLqn.jpg",
+                "username": "MichelleRe76357",
+                "name": "Michelle Reynoso"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257205984
+        },
+        {
+            "trader": {
+                "address": "0x2be082ae8457da1c199eb9fdf908e8cf1e7447f2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1633225863310241792/vDBK1G4z.jpg",
+                "username": "FocusedOnCrypto",
+                "name": "Degen 🐧"
+            },
+            "subject": {
+                "address": "0xa0e94121a5f5fe0163007fd1d02a238676de0e90",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522281798121947137/zD9Fu1vk.jpg",
+                "username": "Miniminionbabe",
+                "name": "Mini"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "25000000000000000",
+            "createdAt": 1696257206142
+        },
+        {
+            "trader": {
+                "address": "0xda02f4281314720e9f6c1f237ef7739e4af35326",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708798933839855616/cQi5qi0S.jpg",
+                "username": "DrizzyDriz9",
+                "name": "Drizzy"
+            },
+            "subject": {
+                "address": "0x4a1afad10a836ce3daf2baff6e0e6c64828d68d3",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1702391977587748864/Y4CUUS_y.jpg",
+                "username": "Bhuvajaydip3",
+                "name": "Bhuva jaydip"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "10562500000000000",
+            "createdAt": 1696257206151
+        },
+        {
+            "trader": {
+                "address": "0xe7c23b5e5e364dd5fcb349a9eea117a5c8cbd55f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1692886054838411265/EkjprY7l.jpg",
+                "username": "japarmacan",
+                "name": "Xenuine.eth💥"
+            },
+            "subject": {
+                "address": "0xfc9bb10a0bbb768b9aa5002d5c814d1412bdc093",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1682496279283105798/17ncxj4J.jpg",
+                "username": "utep_eth",
+                "name": "Utep || Mittaria origins"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "7562500000000000",
+            "createdAt": 1696257206069
+        },
+        {
+            "trader": {
+                "address": "0x9f2c8bdb6f19fdcf3d5abbc87777e68e40e52b4d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1450873967640604672/nISp0rBE.jpg",
+                "username": "leveragedpain",
+                "name": "pain"
+            },
+            "subject": {
+                "address": "0xe17dbba69091f8b0ef23a944ce529774b31aaef7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1668449745269059585/jpjzfCo8.jpg",
+                "username": "linasonthemoon",
+                "name": "linasonthemoon.stark 🛸"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257206177
+        },
+        {
+            "trader": {
+                "address": "0x77dffb924e8f0c67e5f02dfea35833744632da91",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670379195569180674/xI1_-G4Q.jpg",
+                "username": "herongzhan6881",
+                "name": "何荣展"
+            },
+            "subject": {
+                "address": "0x0bdff77780f508d81f7d739e71431e8db63cf208",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1546018161060786176/D5JngHuv.jpg",
+                "username": "GimchungYong",
+                "name": "CHUNGYONG KIM"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257202676
+        },
+        {
+            "trader": {
+                "address": "0x37bd45b1b6a905d01517254a72245e9556f2e3a0",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1552156394123661314/rnvQEOAY.jpg",
+                "username": "NicoleW26583245",
+                "name": "Nicole Wolf /Suiswap/okx"
+            },
+            "subject": {
+                "address": "0xbd81aa865335113d8da30fc7eae8e921cb1577cd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1552042568078213123/Eza03vU_.jpg",
+                "username": "AriesLambert6",
+                "name": "Aries Lambert"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "115562500000000000",
+            "createdAt": 1696257202686
+        },
+        {
+            "trader": {
+                "address": "0xb10b290fba3112c98cd7909dbeeadfb243b8ff79",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686055518622695437/WExklLqn.jpg",
+                "username": "MichelleRe76357",
+                "name": "Michelle Reynoso"
+            },
+            "subject": {
+                "address": "0xb10b290fba3112c98cd7909dbeeadfb243b8ff79",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686055518622695437/WExklLqn.jpg",
+                "username": "MichelleRe76357",
+                "name": "Michelle Reynoso"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257202718
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xc796430cbb6a820ae8e56d7e405d9c5e3dfbb180",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1610446003337056258/v1vp-dDO.jpg",
+                "username": "rnikko60",
+                "name": "ray/Suiswap/okx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257202682
+        },
+        {
+            "trader": {
+                "address": "0xdb93a3ae786e65e52ed6f018888d6442a38b7f64",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1583363938598756352/rFkkBie6.jpg",
+                "username": "linepopask",
+                "name": "linepopask"
+            },
+            "subject": {
+                "address": "0xbacbf7b9712b31e405c0871fa65790a45f21a928",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686860641456246784/-yQ6DdCm.jpg",
+                "username": "MiguelWan131020",
+                "name": "Miguel Wan"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257202676
+        },
+        {
+            "trader": {
+                "address": "0x916799b714eeafab9ce351fe711f29f830cc2f79",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1691302976118571008/DssYiYy_.jpg",
+                "username": "0xnithi",
+                "name": "nithi.lens | 0xnithi.eth 🦇🔊 (💙,🧡)"
+            },
+            "subject": {
+                "address": "0xb97fe49d6668ba6847e78aaa7dca745dd2e2c15a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1682288614389211136/Bl_5lmqS.jpg",
+                "username": "nonkung51",
+                "name": "Nonthakon"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257202681
+        },
+        {
+            "trader": {
+                "address": "0xbacbf7b9712b31e405c0871fa65790a45f21a928",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686860641456246784/-yQ6DdCm.jpg",
+                "username": "MiguelWan131020",
+                "name": "Miguel Wan"
+            },
+            "subject": {
+                "address": "0xbacbf7b9712b31e405c0871fa65790a45f21a928",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686860641456246784/-yQ6DdCm.jpg",
+                "username": "MiguelWan131020",
+                "name": "Miguel Wan"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "0",
+            "createdAt": 1696257202693
+        },
+        {
+            "trader": {
+                "address": "0x1978f783ca0d1846dd8e571cbf6e790d03fc03b5",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1705959669616054272/vBxNkYxO.jpg",
+                "username": "Andyccc26",
+                "name": "Andyccc.eth(3，3)"
+            },
+            "subject": {
+                "address": "0xb5004aafd4a3e256ce0aeeb3d2309fa990e621f7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1619294486903029760/ovN_a4OV.jpg",
+                "username": "Momoxu7",
+                "name": "Mori"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "95062500000000000",
+            "createdAt": 1696257199267
+        },
+        {
+            "trader": {
+                "address": "0x195fe03cd66b60a266fa22d9e35cafdeb4de9796",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656769263448064/8kXV3fCT.png",
+                "username": "bangsatloeman",
+                "name": "Bangsat Loe Man"
+            },
+            "subject": {
+                "address": "0x47c182318e1065bfcfcb0f30e7297a94198da4e4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652676534665113601/6LMJA4yk.png",
+                "username": "ntungls",
+                "name": "ntungls"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "7562500000000000",
+            "createdAt": 1696257199250
+        },
+        {
+            "trader": {
+                "address": "0x84965aa2c70d46d9dda6398577d2a88ac63ced22",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708849255325036544/D6e3IPYn.jpg",
+                "username": "TheLab_L",
+                "name": "The Lab (Trading Bot)"
+            },
+            "subject": {
+                "address": "0x84965aa2c70d46d9dda6398577d2a88ac63ced22",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708849255325036544/D6e3IPYn.jpg",
+                "username": "TheLab_L",
+                "name": "The Lab (Trading Bot)"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257199283
+        },
+        {
+            "trader": {
+                "address": "0xa2fa0eca967e4ccc69bfb4977e7d15e7997e390d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1676814523746123776/FG-MUxjK.jpg",
+                "username": "cunshang1218",
+                "name": "Cunshang"
+            },
+            "subject": {
+                "address": "0x2ed1c5814316ce96ca284ba834c2ab653ba2ae4b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1676949636458881024/SKKw80Df.jpg",
+                "username": "btc__yang",
+                "name": "กาบแก้ว  ก้อนคำ"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257199224
+        },
+        {
+            "trader": {
+                "address": "0x9cf764e9d28f31203d71cd3f916aa4318f8be086",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1646189471057219586/JXXP1AQj.jpg",
+                "username": "cyrilcheong",
+                "name": "MorMoon"
+            },
+            "subject": {
+                "address": "0x2a3e54f78e0ad8a08aa33c53b74da676a4410c63",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1623907302905638912/o1LorRVw.jpg",
+                "username": "AKCB_Ron",
+                "name": "Ron"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "6250000000000000",
+            "createdAt": 1696257199185
+        },
+        {
+            "trader": {
+                "address": "0x378685f20260ccabdbecb81615fa387e77b0455d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1598347486384558080/iZPeF_O-.jpg",
+                "username": "johnressuie",
+                "name": "ressjohntraya"
+            },
+            "subject": {
+                "address": "0x0a140f9f7f1f3b2221fb2202328c4a59e3c43347",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708847040749506561/9-G1G3JK.jpg",
+                "username": "LakozEther",
+                "name": "Lakoz.eth (🦍,🦉,🔮)"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "5062500000000000",
+            "createdAt": 1696257199125
+        },
+        {
+            "trader": {
+                "address": "0x07054d3fc65ce9f5c20318162c8cc6fc7e0388a2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1696247942825312256/PS7IAQsR.png",
+                "username": "DrewGarcia81012",
+                "name": "Drew Garcia"
+            },
+            "subject": {
+                "address": "0x1dce245d492defd09a5be515e9ae19c60edd8bd1",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522077458182246402/bwXZG_sD.png",
+                "username": "pitman_thera",
+                "name": "Thera Pitman"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257199220
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xb1581dffd895ba3bc8eec1a221e85894f1040c97",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522076483639939072/l7WZN2xY.jpg",
+                "username": "enid_motley",
+                "name": "Enid Motley"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257199203
+        },
+        {
+            "trader": {
+                "address": "0x229168438b914c6c48afb7d942340012e656b976",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1704072075944804352/LRV39PaM.jpg",
+                "username": "luxecrypto_club",
+                "name": "Luxe Crypto | Friend.Tech 💎⚡️"
+            },
+            "subject": {
+                "address": "0x0f19f87d8ae35b1f29065ccab9235159c4fbee12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1561379373755793408/Dr-TNfU6.png",
+                "username": "Philneeds",
+                "name": "Philneeds 🛸"
+            },
+            "isBuy": true,
+            "shareAmount": "2",
+            "ethAmount": "225812500000000000",
+            "createdAt": 1696257195581
+        },
+        {
+            "trader": {
+                "address": "0xb9eed702d3451cc2d5439a4d741b220921b529e3",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1605864931953639426/fNSj7qLz.jpg",
+                "username": "SuperL9",
+                "name": "Wick李💎⚡️"
+            },
+            "subject": {
+                "address": "0xbce7fac4f28c7bf090f416ccbfc3fdd4b4ecc661",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1610249675306582018/i1Vp58gs.jpg",
+                "username": "jamiaa17",
+                "name": "jamiaa/Suiswap/okx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257195833
+        },
+        {
+            "trader": {
+                "address": "0xf1ce79b10f380c45ec99b5bec28bb307406f40fa",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1699993635704406016/EjJypXV-.jpg",
+                "username": "Thatjpeg_",
+                "name": "thatjpeg"
+            },
+            "subject": {
+                "address": "0x85c31dcd441dedc4c07b170fc22dfc51c8d91ad8",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1653790395057274880/2KlY0Jmu.jpg",
+                "username": "valueandtime",
+                "name": "Value & Time"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "56250000000000000",
+            "createdAt": 1696257195582
+        },
+        {
+            "trader": {
+                "address": "0xbae787261bb7708977819dd2ba1da3f9bd5a5ce7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1601437219830566914/H65bEWiC.jpg",
+                "username": "lootsack",
+                "name": "lootsack"
+            },
+            "subject": {
+                "address": "0x6e695a02513b40ece59f55a1197ff8bf6a3fcfe2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1248374454436032520/8VSGS2ta.jpg",
+                "username": "mhdempsey",
+                "name": "Michael Dempsey"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "39062500000000000",
+            "createdAt": 1696257195585
+        },
+        {
+            "trader": {
+                "address": "0x40dc6cacdb992b32d3e5732e71fc4db0cc9150d6",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1673290068474167300/Yu_Cbvo4.jpg",
+                "username": "AvihayID",
+                "name": "Hope 🛸"
+            },
+            "subject": {
+                "address": "0xe60e33f4f3e2bdca3764514e9dfe70061c2b8522",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708200268117291008/kFJ6I5KU.jpg",
+                "username": "thesahilsays3",
+                "name": "Sahil Arora"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "6250000000000000",
+            "createdAt": 1696257195581
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x140ae46e647dffb4ff50b487b2f36e4971354ece",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1699729026724564993/JbBJMNuA.jpg",
+                "username": "cryptocityxxx",
+                "name": "$TRADER__HU__YAAR📉📈💚🌙"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257195575
+        },
+        {
+            "trader": {
+                "address": "0x30c8f21a42267d2b713fb358d75bbf3b2c82fc81",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1600273912620896260/QPciW4h8.jpg",
+                "username": "0Web3go",
+                "name": "0xDigitalDynasty | Web3Go"
+            },
+            "subject": {
+                "address": "0x700c1ce21d2ff1c521470290dd6473f2a2152dcd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1671515896387338246/vF8I8fJU.jpg",
+                "username": "zizabac",
+                "name": "ziz"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257195561
+        },
+        {
+            "trader": {
+                "address": "0xfa6f055c1efb7ab9d2fa52ecb9a25fe298fdccbe",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1694775034945114112/YuRZ4_5B.jpg",
+                "username": "xAli7_",
+                "name": "xAli.eth 🧙🏽‍♂️"
+            },
+            "subject": {
+                "address": "0xf23ca49a73fd0549cde69ffc72642285bbb883b9",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1677280976659947520/7Gn9-ZPU.png",
+                "username": "DonAplas",
+                "name": "DonAplas"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "27562500000000000",
+            "createdAt": 1696257192284
+        },
+        {
+            "trader": {
+                "address": "0x3f91f6df3f938bb348fab7d014dfdc2ec38d5b9a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1691168074790002688/1shgiYNy.jpg",
+                "username": "apollojones777",
+                "name": "Apollo 🧙🏽‍♂️(🤝)"
+            },
+            "subject": {
+                "address": "0x81a30b266c2503cf972ecdb3e7c21d39551ac87a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1702481101477064704/SxDHQ-uT.jpg",
+                "username": "chimeraXBT",
+                "name": "chimera"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "27562500000000000",
+            "createdAt": 1696257192290
+        },
+        {
+            "trader": {
+                "address": "0x195fe03cd66b60a266fa22d9e35cafdeb4de9796",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656769263448064/8kXV3fCT.png",
+                "username": "bangsatloeman",
+                "name": "Bangsat Loe Man"
+            },
+            "subject": {
+                "address": "0x235398b78d264a8e1e012cb1c2b1a56562518f95",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652676605012062208/VmDQoG-i.jpg",
+                "username": "dadatayokehinde",
+                "name": "Dada"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "18062500000000000",
+            "createdAt": 1696257193563
+        },
+        {
+            "trader": {
+                "address": "0xb86ea697fea9b70f49f49f2ee0ab2e08eb375ed2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1658106750116020224/Ezb4yFpe.png",
+                "username": "AltJaqen",
+                "name": "Alt. 💎⚡️"
+            },
+            "subject": {
+                "address": "0x7528272ebbb460af0f6ad224fabc9d12bebaa523",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1706163501893566464/Biv7v49C.jpg",
+                "username": "rissehan",
+                "name": "CaoCao 曹操"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "6250000000000000",
+            "createdAt": 1696257191067
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x0748a83106354765506106ed9e21b09a4a359d6f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1367438266249715714/QVXVKeEM.jpg",
+                "username": "gctradingg",
+                "name": "GC Trading"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257186415
+        },
+        {
+            "trader": {
+                "address": "0x23bdda65ec1f92fafaf56c4189d23d99cbc23fb4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708842863188905984/vNU4rAUV.png",
+                "username": "Miirro1225",
+                "name": "Mirro/神社主理人"
+            },
+            "subject": {
+                "address": "0x23bdda65ec1f92fafaf56c4189d23d99cbc23fb4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708842863188905984/vNU4rAUV.png",
+                "username": "Miirro1225",
+                "name": "Mirro/神社主理人"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257187728
+        },
+        {
+            "trader": {
+                "address": "0x59a518dc97eacc161e0105c125a4b6ea793493c1",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1685344872885063680/LNcZAa1T.jpg",
+                "username": "Bellissimo_00",
+                "name": "."
+            },
+            "subject": {
+                "address": "0x8f8234f5bda5276af8558ed08e75f3120a51eefb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1684135573349613568/AmfRlTHg.jpg",
+                "username": "PoPo_eth",
+                "name": "PoPo🦋"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "138062500000000000",
+            "createdAt": 1696257186665
+        },
+        {
+            "trader": {
+                "address": "0x378685f20260ccabdbecb81615fa387e77b0455d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1598347486384558080/iZPeF_O-.jpg",
+                "username": "johnressuie",
+                "name": "ressjohntraya"
+            },
+            "subject": {
+                "address": "0x0a140f9f7f1f3b2221fb2202328c4a59e3c43347",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708847040749506561/9-G1G3JK.jpg",
+                "username": "LakozEther",
+                "name": "Lakoz.eth (🦍,🦉,🔮)"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "6250000000000000",
+            "createdAt": 1696257185395
+        },
+        {
+            "trader": {
+                "address": "0x278a53db6d53e9e85e075f1e24b17cbcb28f25b4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1628171245651992577/w9W96251.jpg",
+                "username": "juanluiseth",
+                "name": "Juan Luis"
+            },
+            "subject": {
+                "address": "0x4ae22e18f654ea16027c3d8aae45be8ef1726d90",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1511502907476127744/bxwxydP2.jpg",
+                "username": "AustinBarack",
+                "name": "Austin Barack"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "18062500000000000",
+            "createdAt": 1696257185815
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x7a5e7f8ebe48ed3c2176ff4215ff51567ba9bf95",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708546824116555776/yfa2vJWA.jpg",
+                "username": "pk76872",
+                "name": "Muhammad Younas"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257186755
+        },
+        {
+            "trader": {
+                "address": "0xd7b88e21266a21e1272697b97d97cde3e5e7811e",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701931323336880128/2FiLIO7y.jpg",
+                "username": "hehe696969x",
+                "name": "not milady !"
+            },
+            "subject": {
+                "address": "0x24f27ec53cd724fde913184ef7f3202866a78293",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1612741327069782016/xMz6QxSV.jpg",
+                "username": "dadam_art",
+                "name": "𝘥𝘢-𝘥𝘢𝘮"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257186870
+        },
+        {
+            "trader": {
+                "address": "0xf1ce79b10f380c45ec99b5bec28bb307406f40fa",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1699993635704406016/EjJypXV-.jpg",
+                "username": "Thatjpeg_",
+                "name": "thatjpeg"
+            },
+            "subject": {
+                "address": "0x85c31dcd441dedc4c07b170fc22dfc51c8d91ad8",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1653790395057274880/2KlY0Jmu.jpg",
+                "username": "valueandtime",
+                "name": "Value & Time"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "52562500000000000",
+            "createdAt": 1696257180884
+        },
+        {
+            "trader": {
+                "address": "0xa702da096b96ed58d8a678ab98c575bde07f4178",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708850592955650048/7QfaKDU_.jpg",
+                "username": "esco718253",
+                "name": "Escobio.eth (3,3)"
+            },
+            "subject": {
+                "address": "0xa702da096b96ed58d8a678ab98c575bde07f4178",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708850592955650048/7QfaKDU_.jpg",
+                "username": "esco718253",
+                "name": "Escobio.eth (3,3)"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257181132
+        },
+        {
+            "trader": {
+                "address": "0x1be56a2088fa0b53352d031cede2b0103f2762fd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708811053713539072/B-bkdnZi.jpg",
+                "username": "veyraina",
+                "name": "vey.ETH 💰💎"
+            },
+            "subject": {
+                "address": "0x1be56a2088fa0b53352d031cede2b0103f2762fd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708811053713539072/B-bkdnZi.jpg",
+                "username": "veyraina",
+                "name": "vey.ETH 💰💎"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257181170
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x6a641f4044297894f03b41439c44b3348213e1fa",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1666146807129452545/Kz09uHTO.jpg",
+                "username": "solomeowl444",
+                "name": "SOLOMΞOWL ⬡"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "7562500000000000",
+            "createdAt": 1696257180870
+        },
+        {
+            "trader": {
+                "address": "0xc1322133acbad823614bf79ca9ec409fa3a7e39a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1576427891893469185/rNf4kAwx.jpg",
+                "username": "123xzr",
+                "name": "333 💎🤲 (0,1)(0,2)(3,3)"
+            },
+            "subject": {
+                "address": "0x9663404bfedc68fb8a47d257adc27a60d63cde85",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1548069041264201729/JSe_2Bht.jpg",
+                "username": "matthewmagnani",
+                "name": "Matthew Magnani"
+            },
+            "isBuy": true,
+            "shareAmount": "2",
+            "ethAmount": "312500000000000",
+            "createdAt": 1696257181170
+        },
+        {
+            "trader": {
+                "address": "0x93c30d80761d8d0c0c08ddc172976212799c1d5c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1705415231080398848/DP9xT_oD.jpg",
+                "username": "thelaziestcoder",
+                "name": "the laziest coder"
+            },
+            "subject": {
+                "address": "0x24f27ec53cd724fde913184ef7f3202866a78293",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1612741327069782016/xMz6QxSV.jpg",
+                "username": "dadam_art",
+                "name": "𝘥𝘢-𝘥𝘢𝘮"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257180818
+        },
+        {
+            "trader": {
+                "address": "0x28e3da6af6a2b833ca7c8471635a295048c245a1",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1706739770825883649/woNtirkC.jpg",
+                "username": "potufomiu",
+                "name": "OpenplaneT🌏"
+            },
+            "subject": {
+                "address": "0x5a5ba73c7e63518408871d18b1c5d7f0f2face63",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1692484261469716481/XBKMBYK7.png",
+                "username": "IraMysha",
+                "name": "Mira Nurdimansyah"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257180826
+        },
+        {
+            "trader": {
+                "address": "0x4e04ec4d7bcde4327e3560b036904f4fb6e3436a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701604149044084736/epewJwK2.jpg",
+                "username": "PaoloDiMedici",
+                "name": "P.G."
+            },
+            "subject": {
+                "address": "0xc2e6aa3f7a1178d0704307fbb882df94be244c80",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708814497954271232/2tEPsqII.jpg",
+                "username": "0xBif",
+                "name": "Bif"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "49000000000000000",
+            "createdAt": 1696257180826
+        },
+        {
+            "trader": {
+                "address": "0x9663404bfedc68fb8a47d257adc27a60d63cde85",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1548069041264201729/JSe_2Bht.jpg",
+                "username": "matthewmagnani",
+                "name": "Matthew Magnani"
+            },
+            "subject": {
+                "address": "0x9663404bfedc68fb8a47d257adc27a60d63cde85",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1548069041264201729/JSe_2Bht.jpg",
+                "username": "matthewmagnani",
+                "name": "Matthew Magnani"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "0",
+            "createdAt": 1696257180782
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x9dca49e577ef371f7187b152826dcee41cd5cdc5",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/2975735205/7f8e7d6e2d797895b69613f7cc2a2e78.jpeg",
+                "username": "jhorsegar",
+                "name": "jhorsegar/Suiswap/okx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257181171
+        },
+        {
+            "trader": {
+                "address": "0x8f48e07202afd1d0af1548edfc081563547e79eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655860083983626241/imNs1znd.jpg",
+                "username": "cryptojamie7",
+                "name": "CryptoJamie"
+            },
+            "subject": {
+                "address": "0x5806018a1d32ebc4cfd24fdefe7fcd62d201e69b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1692481679716241408/9jmOGwW0.png",
+                "username": "Kamilaaaa24",
+                "name": "Kamila✈"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257177175
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xbce7fac4f28c7bf090f416ccbfc3fdd4b4ecc661",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1610249675306582018/i1Vp58gs.jpg",
+                "username": "jamiaa17",
+                "name": "jamiaa/Suiswap/okx"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257177128
+        },
+        {
+            "trader": {
+                "address": "0xcd8461e3a1807397bb5fe74f3bef59c07e71acbb",
+                "pfpUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+                "username": "maomao910910816",
+                "name": "毛毛"
+            },
+            "subject": {
+                "address": "0x700c1ce21d2ff1c521470290dd6473f2a2152dcd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1671515896387338246/vF8I8fJU.jpg",
+                "username": "zizabac",
+                "name": "ziz"
+            },
+            "isBuy": true,
+            "shareAmount": "3",
+            "ethAmount": "875000000000000",
+            "createdAt": 1696257177238
+        },
+        {
+            "trader": {
+                "address": "0x195fe03cd66b60a266fa22d9e35cafdeb4de9796",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656769263448064/8kXV3fCT.png",
+                "username": "bangsatloeman",
+                "name": "Bangsat Loe Man"
+            },
+            "subject": {
+                "address": "0x2c41a09930309e60aa4d35d1ab26090a09d8e613",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656777052274688/decUQHvz.png",
+                "username": "yong123_yong",
+                "name": "wilson"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "9000000000000000",
+            "createdAt": 1696257177158
+        },
+        {
+            "trader": {
+                "address": "0xe0810a69a97cf0b338cafaf5f8e85f936082ed68",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1642944129813430275/_-dfNQrh.jpg",
+                "username": "k43ff",
+                "name": "k43ff"
+            },
+            "subject": {
+                "address": "0x9f228a5d2a00327d9002644eb41b550556cc3357",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1669719029207162882/5wOKDAJa.jpg",
+                "username": "manjianghong55",
+                "name": "满江红"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257177105
+        },
+        {
+            "trader": {
+                "address": "0x700c1ce21d2ff1c521470290dd6473f2a2152dcd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1671515896387338246/vF8I8fJU.jpg",
+                "username": "zizabac",
+                "name": "ziz"
+            },
+            "subject": {
+                "address": "0x700c1ce21d2ff1c521470290dd6473f2a2152dcd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1671515896387338246/vF8I8fJU.jpg",
+                "username": "zizabac",
+                "name": "ziz"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "0",
+            "createdAt": 1696257177130
+        },
+        {
+            "trader": {
+                "address": "0x3d91ab07cc1f8184abd312389b920a468a0bb81e",
+                "pfpUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+                "username": "MammothTwit",
+                "name": "Mulyadi"
+            },
+            "subject": {
+                "address": "0xe3ca54254e083dfe7f2ca4265790a72104389ebe",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1629748076868157442/5cM021QU.jpg",
+                "username": "astrosnow",
+                "name": "soonk.stark (3,3)"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "12250000000000000",
+            "createdAt": 1696257177404
+        },
+        {
+            "trader": {
+                "address": "0x1804cf4b38a5de1924474d54051f4e0be12b3259",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1681192819946586114/D5JOhqTn.jpg",
+                "username": "punk6995",
+                "name": "Quentin"
+            },
+            "subject": {
+                "address": "0x08e5eadd330f3a50433a2c984fa102ca8164cc6e",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1637188687728455681/PsPy0EMu.jpg",
+                "username": "whynotmeNFT",
+                "name": "whynotme🍌🇫🇷"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "45562500000000000",
+            "createdAt": 1696257177141
+        },
+        {
+            "trader": {
+                "address": "0xca2009192126ad9e325047e9ce4e01cdd7ddbcb4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1668161398269165568/m3FsEmwk.jpg",
+                "username": "jpg4805",
+                "name": "Astr0x"
+            },
+            "subject": {
+                "address": "0x82db029431ce333590fcd78460405f18afe96681",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1595073122646081536/MaaH5YGB.jpg",
+                "username": "denzy_de",
+                "name": "gokdeniz.lens(🌸, 🌿)"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257172192
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x82db029431ce333590fcd78460405f18afe96681",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1595073122646081536/MaaH5YGB.jpg",
+                "username": "denzy_de",
+                "name": "gokdeniz.lens(🌸, 🌿)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257172191
+        },
+        {
+            "trader": {
+                "address": "0x8f48e07202afd1d0af1548edfc081563547e79eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655860083983626241/imNs1znd.jpg",
+                "username": "cryptojamie7",
+                "name": "CryptoJamie"
+            },
+            "subject": {
+                "address": "0xd72b84b0f37a9373227b41ed565690fc483f2059",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708501700938719232/6JDSagyj.jpg",
+                "username": "MuskElonparodyi",
+                "name": "Elon Musk Parody"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257168950
+        },
+        {
+            "trader": {
+                "address": "0xef037a3328b8991ac4fc9b957443a4d16ecb2d52",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1654415355215749120/cjQyr8f_.jpg",
+                "username": "ArtisticCrypto",
+                "name": "ArtisticCrypto.eth ⟠💎⚡️"
+            },
+            "subject": {
+                "address": "0x04ead9e596a30750060aa304ce018393869b04ec",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1590415506082775041/kGtrIZAE.jpg",
+                "username": "JohnTown91",
+                "name": "John Townsend"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "9000000000000000",
+            "createdAt": 1696257168930
+        },
+        {
+            "trader": {
+                "address": "0x114d634209fd932cab5b372c233db6dfdb2f50df",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708135737127038976/oZEUakHu.jpg",
+                "username": "kuofat",
+                "name": "Ken"
+            },
+            "subject": {
+                "address": "0xb426d1f9aea9a1abd880cae47d1aa759307a6b3b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1657383872412393472/vwlDbLbc.jpg",
+                "username": "777peaceofheav1",
+                "name": "peaceofheaven.eth 🎒"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "14062500000000000",
+            "createdAt": 1696257168927
+        },
+        {
+            "trader": {
+                "address": "0x114d634209fd932cab5b372c233db6dfdb2f50df",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708135737127038976/oZEUakHu.jpg",
+                "username": "kuofat",
+                "name": "Ken"
+            },
+            "subject": {
+                "address": "0xb426d1f9aea9a1abd880cae47d1aa759307a6b3b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1690752478068015104/5-5WPPUN.jpg",
+                "username": "peaceofheav1",
+                "name": "peaceofheaven.eth 🎒"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "14062500000000000",
+            "createdAt": 1696257168927
+        },
+        {
+            "trader": {
+                "address": "0xa22d709a448423dbfd8923a191a22d1d6bc6ee92",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1664989097507602432/99KXBihu.jpg",
+                "username": "WhaleChart",
+                "name": "Whale"
+            },
+            "subject": {
+                "address": "0x3af2c69b5427ef6495eef57373c3ed839906bb74",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1705028384617811968/fhKxmRxd.jpg",
+                "username": "lm_Kel",
+                "name": "Kel 👁️"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "10562500000000000",
+            "createdAt": 1696257168895
+        },
+        {
+            "trader": {
+                "address": "0xf9c0cc0ffd4430025ec89a732b3cf4dd1c6dd546",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1629637629896699904/lEPO1st_.jpg",
+                "username": "tarame_000",
+                "name": "たらめ!"
+            },
+            "subject": {
+                "address": "0x1291cc0073776bde75c728612600c3beed9ede7c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1677623422115774464/sSzIC7Ty.jpg",
+                "username": "MidoAnders93314",
+                "name": "Mido Anderson"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257168899
+        },
+        {
+            "trader": {
+                "address": "0x7626bd73be0b708927fa12b062fb3d65b8faba6b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701993253950611460/3VlpCxBz.jpg",
+                "username": "const_phoenixed",
+                "name": "constant"
+            },
+            "subject": {
+                "address": "0x9f9c2b6620797551d5d0bb38677205f74e536896",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1705669801333436416/Q3Ouqxer.jpg",
+                "username": "Bloodisher_",
+                "name": "Bloodisher.eth (3,3)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "30250000000000000",
+            "createdAt": 1696257168950
+        },
+        {
+            "trader": {
+                "address": "0x48677ab98956926ece1b8bdea98a9a8aea8b64ab",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1499675210798465024/Lm0ciCQN.jpg",
+                "username": "CCCCCCHIOE",
+                "name": "chioe🍪🍕"
+            },
+            "subject": {
+                "address": "0xebf59ecf5aa88694c144d4617e35e81588774c75",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/611525691700592640/mOH0jerh.jpg",
+                "username": "gemmilldaniel",
+                "name": "nhoJ"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "351562500000000000",
+            "createdAt": 1696257164078
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x5806018a1d32ebc4cfd24fdefe7fcd62d201e69b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1692481679716241408/9jmOGwW0.png",
+                "username": "Kamilaaaa24",
+                "name": "Kamila✈"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257164113
+        },
+        {
+            "trader": {
+                "address": "0x195fe03cd66b60a266fa22d9e35cafdeb4de9796",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656769263448064/8kXV3fCT.png",
+                "username": "bangsatloeman",
+                "name": "Bangsat Loe Man"
+            },
+            "subject": {
+                "address": "0xc69136217b0e36daff0edcc6499ebd5a13e66cab",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656773004754947/PesAtv1v.jpg",
+                "username": "supermanjie",
+                "name": "Superman"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "9000000000000000",
+            "createdAt": 1696257164108
+        },
+        {
+            "trader": {
+                "address": "0xb86ea697fea9b70f49f49f2ee0ab2e08eb375ed2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1658106750116020224/Ezb4yFpe.png",
+                "username": "AltJaqen",
+                "name": "Alt. 💎⚡️"
+            },
+            "subject": {
+                "address": "0x6a6e0a41698a4775aeac61c681b6870690a39304",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1703620441427099648/83Bb8_T6.jpg",
+                "username": "TCuniswap",
+                "name": "TC42"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "7562500000000000",
+            "createdAt": 1696257164053
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xc0f048252ea275dd16a5d0e43cb03cb8955b68c6",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1630548695769808896/XkckZBDu.jpg",
+                "username": "manna12_vic",
+                "name": "SonOfPoseidon.eth💚🌙"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257164093
+        },
+        {
+            "trader": {
+                "address": "0xf08288dc1205c6934757ea7073084625d183a0dd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1706194906816057344/UOyIA4I0.jpg",
+                "username": "xiaodouya888",
+                "name": "0xdouya"
+            },
+            "subject": {
+                "address": "0x655f93930ea8de71f00c56fb0935537e56b19955",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1688891201452392448/cBzdSm6O.jpg",
+                "username": "bingo_eth",
+                "name": "Anson"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "27562500000000000",
+            "createdAt": 1696257160686
+        },
+        {
+            "trader": {
+                "address": "0x07054d3fc65ce9f5c20318162c8cc6fc7e0388a2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1696247942825312256/PS7IAQsR.png",
+                "username": "DrewGarcia81012",
+                "name": "Drew Garcia"
+            },
+            "subject": {
+                "address": "0x1dce245d492defd09a5be515e9ae19c60edd8bd1",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522077458182246402/bwXZG_sD.png",
+                "username": "pitman_thera",
+                "name": "Thera Pitman"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257160728
+        },
+        {
+            "trader": {
+                "address": "0xbd584310654073a8f84827b698102025d8160f4a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1662038896069459969/saCy_kPK.jpg",
+                "username": "getrichss",
+                "name": "getrich.eth 💎⚡"
+            },
+            "subject": {
+                "address": "0xac4573e5b10f6824353b468ac411a2f87df6b0fa",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/214455651/mix.jpg",
+                "username": "Lonelyshiki",
+                "name": "Katie C"
+            },
+            "isBuy": false,
+            "shareAmount": "2",
+            "ethAmount": "7062500000000000",
+            "createdAt": 1696257160704
+        },
+        {
+            "trader": {
+                "address": "0x6e222e2a3ef43a293b6e7b0a593a53f82125cf3c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708273725966045184/jVg3IWFI.jpg",
+                "username": "robtraeger",
+                "name": "Robeart 🛡️"
+            },
+            "subject": {
+                "address": "0xd0c909c6b27dd0ec911430e70d8af5c47cf9b4ba",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1680820136670818304/G9vxjaZb.jpg",
+                "username": "OneBillionB",
+                "name": "OneBillionBeauties"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "5062500000000000",
+            "createdAt": 1696257160821
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x5a5ba73c7e63518408871d18b1c5d7f0f2face63",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1692484261469716481/XBKMBYK7.png",
+                "username": "IraMysha",
+                "name": "Mira Nurdimansyah"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257160742
+        },
+        {
+            "trader": {
+                "address": "0x250ea6dc77b6836b25670ea8aa777d65bf36726e",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1703206020116348928/ew8P-11A.jpg",
+                "username": "kawaiihotsauce",
+                "name": "𝕶𝖆𝖜𝖆𝖎𝖎 𝕳𝖔𝖙 𝕾𝖆𝖚𝖈𝖊"
+            },
+            "subject": {
+                "address": "0x0a140f9f7f1f3b2221fb2202328c4a59e3c43347",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708847040749506561/9-G1G3JK.jpg",
+                "username": "LakozEther",
+                "name": "Lakoz.eth (🦍,🦉,🔮)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "6250000000000000",
+            "createdAt": 1696257160698
+        },
+        {
+            "trader": {
+                "address": "0xa17367ea44a00f091eb5bb34f3fc8bfa23bc5d2b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708744821178019840/v_-vakxv.jpg",
+                "username": "kcuong355",
+                "name": "EREN"
+            },
+            "subject": {
+                "address": "0xa17367ea44a00f091eb5bb34f3fc8bfa23bc5d2b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708744821178019840/v_-vakxv.jpg",
+                "username": "kcuong355",
+                "name": "EREN"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257157304
+        },
+        {
+            "trader": {
+                "address": "0x0dfc015fbec506277d812e9b578ab3ee5174a25f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1572541215626743815/0JkhYl43.jpg",
+                "username": "A_realmadridcf",
+                "name": "Ali.s"
+            },
+            "subject": {
+                "address": "0x2106f35c3dc87a0f20c4998512bb26540fc0a6e5",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708455267162316801/TgxyhoX8.jpg",
+                "username": "NeverKey5q",
+                "name": "Never buy my key😡😡💸"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257157044
+        },
+        {
+            "trader": {
+                "address": "0x378685f20260ccabdbecb81615fa387e77b0455d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1598347486384558080/iZPeF_O-.jpg",
+                "username": "johnressuie",
+                "name": "ressjohntraya"
+            },
+            "subject": {
+                "address": "0x0a140f9f7f1f3b2221fb2202328c4a59e3c43347",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708847040749506561/9-G1G3JK.jpg",
+                "username": "LakozEther",
+                "name": "Lakoz.eth (🦍,🦉,🔮)"
+            },
+            "isBuy": true,
+            "shareAmount": "2",
+            "ethAmount": "7062500000000000",
+            "createdAt": 1696257157045
+        },
+        {
+            "trader": {
+                "address": "0x7b07ab5d3db0f53271e65fd9f637586bffbdd607",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1641348546858455041/q9cBmmzq.jpg",
+                "username": "akakiseisai3",
+                "name": "ドナルド・フジタ"
+            },
+            "subject": {
+                "address": "0xd72b84b0f37a9373227b41ed565690fc483f2059",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708501700938719232/6JDSagyj.jpg",
+                "username": "MuskElonparodyi",
+                "name": "Elon Musk Parody"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257153199
+        },
+        {
+            "trader": {
+                "address": "0x385412d5488f874ca58b4881ff65ba77baab677d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1590648392538943490/Z_hhZiqE.jpg",
+                "username": "q0ZURL6oIWWOa93",
+                "name": "ChainBird"
+            },
+            "subject": {
+                "address": "0x0a140f9f7f1f3b2221fb2202328c4a59e3c43347",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708847040749506561/9-G1G3JK.jpg",
+                "username": "LakozEther",
+                "name": "Lakoz.eth (🦍,🦉,🔮)"
+            },
+            "isBuy": true,
+            "shareAmount": "6",
+            "ethAmount": "5687500000000000",
+            "createdAt": 1696257153351
+        },
+        {
+            "trader": {
+                "address": "0x0a140f9f7f1f3b2221fb2202328c4a59e3c43347",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708847040749506561/9-G1G3JK.jpg",
+                "username": "LakozEther",
+                "name": "Lakoz.eth (🦍,🦉,🔮)"
+            },
+            "subject": {
+                "address": "0x0a140f9f7f1f3b2221fb2202328c4a59e3c43347",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708847040749506561/9-G1G3JK.jpg",
+                "username": "LakozEther",
+                "name": "Lakoz.eth (🦍,🦉,🔮)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "0",
+            "createdAt": 1696257153552
+        },
+        {
+            "trader": {
+                "address": "0xd98847f6079832df598bb11560b0c5f2eec780d5",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1671363926607675393/0RLpnKld.jpg",
+                "username": "Matrix_Nexus",
+                "name": "Matrix Nexus | Crypto Trading Bot"
+            },
+            "subject": {
+                "address": "0xd98847f6079832df598bb11560b0c5f2eec780d5",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1671363926607675393/0RLpnKld.jpg",
+                "username": "Matrix_Nexus",
+                "name": "Matrix Nexus | Crypto Trading Bot"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "25000000000000000",
+            "createdAt": 1696257153634
+        },
+        {
+            "trader": {
+                "address": "0xb98aa02a9901265630786a99385522acd1ca3972",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1660259796287881217/6us0f3-6.png",
+                "username": "J777Crypto",
+                "name": "J777Crypto"
+            },
+            "subject": {
+                "address": "0x899914a60cb662924d806950b7728a27e7710379",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1694726248407437312/-GHmJt64.png",
+                "username": "FireMosu",
+                "name": "MOSU"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "240250000000000000",
+            "createdAt": 1696257152600
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x9f2bac929807762b79e842600d90b2a7dc1eec71",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1561710606775996417/jR-ti52z.jpg",
+                "username": "JuanForTheMoney",
+                "name": "Palomino.lens"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257153219
+        },
+        {
+            "trader": {
+                "address": "0xdb93a3ae786e65e52ed6f018888d6442a38b7f64",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1583363938598756352/rFkkBie6.jpg",
+                "username": "linepopask",
+                "name": "linepopask"
+            },
+            "subject": {
+                "address": "0x1291cc0073776bde75c728612600c3beed9ede7c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1677623422115774464/sSzIC7Ty.jpg",
+                "username": "MidoAnders93314",
+                "name": "Mido Anderson"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257152592
+        },
+        {
+            "trader": {
+                "address": "0x1291cc0073776bde75c728612600c3beed9ede7c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1677623422115774464/sSzIC7Ty.jpg",
+                "username": "MidoAnders93314",
+                "name": "Mido Anderson"
+            },
+            "subject": {
+                "address": "0x1291cc0073776bde75c728612600c3beed9ede7c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1677623422115774464/sSzIC7Ty.jpg",
+                "username": "MidoAnders93314",
+                "name": "Mido Anderson"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "0",
+            "createdAt": 1696257152547
+        },
+        {
+            "trader": {
+                "address": "0x1e22e30a636fcb855847c4192d1df379d2e7bac7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1668766397382668288/iTiK6o7Q.jpg",
+                "username": "Luke6832eth",
+                "name": "LUKΞ ⟠"
+            },
+            "subject": {
+                "address": "0xaf646062673a6b245c4e1d3fdedcf0cbaa0b9c25",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1703742605241233408/x6Hs41FQ.jpg",
+                "username": "cryptokj77",
+                "name": "Crypto K.J💎⚡️"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "52562500000000000",
+            "createdAt": 1696257153536
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xd7db3525450fe61178e27dd18d3d37f41f85f360",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1502622909180915720/70RDIbbG.jpg",
+                "username": "Cryptor1an",
+                "name": "TONATION"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257153095
+        },
+        {
+            "trader": {
+                "address": "0xb1041c4413b8ee5f3caf247b735a8cf71f628cac",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1634216641306456066/NoWlTf9I.jpg",
+                "username": "lfgXAI",
+                "name": "LFG𝕏"
+            },
+            "subject": {
+                "address": "0xa17367ea44a00f091eb5bb34f3fc8bfa23bc5d2b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708744821178019840/v_-vakxv.jpg",
+                "username": "kcuong355",
+                "name": "EREN"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257149907
+        },
+        {
+            "trader": {
+                "address": "0xde27990a32437309a605b7da7afbf278cfffb77a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1706316063569244160/5owI-j3r.jpg",
+                "username": "0xstr820",
+                "name": "kyo"
+            },
+            "subject": {
+                "address": "0xf2b2db42470d3ae8113d8b91a327f8d41cfd71d6",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1707369328226758657/rSfzBzvw.png",
+                "username": "tenzmedia148180",
+                "name": "tenzmedia"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "6250000000000000",
+            "createdAt": 1696257147691
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x276503a96e6a90dc84a887c8548fb31211d027e7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1366725100972564481/g9td4kod.jpg",
+                "username": "Boopable_",
+                "name": "boopable"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257150291
+        },
+        {
+            "trader": {
+                "address": "0x195fe03cd66b60a266fa22d9e35cafdeb4de9796",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656769263448064/8kXV3fCT.png",
+                "username": "bangsatloeman",
+                "name": "Bangsat Loe Man"
+            },
+            "subject": {
+                "address": "0xe377d2e6e5d571f824aae65adf91db1872cb8404",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1652656773021540352/ed0K0Ekc.jpg",
+                "username": "amyrularie",
+                "name": "amyrul arie"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "6250000000000000",
+            "createdAt": 1696257148950
+        },
+        {
+            "trader": {
+                "address": "0x9d785837078775f53871c1987269170b7b439dea",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1610760514778370055/wKC_zhze.jpg",
+                "username": "notsuavizim",
+                "name": "900.sats"
+            },
+            "subject": {
+                "address": "0x6a19e50134a97927a776aa84cf54314e586077cc",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1688787178657128448/kZeXw-kA.png",
+                "username": "Greti_eth",
+                "name": "Greti"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "30250000000000000",
+            "createdAt": 1696257150096
+        },
+        {
+            "trader": {
+                "address": "0x5550a19b2503167d7a9ece16badd384bf5ddeae6",
+                "pfpUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+                "username": "nankondepriscar",
+                "name": "nankonde priscar"
+            },
+            "subject": {
+                "address": "0x6ce30d7ea0dc75f0179c2e36114b56bf5e6c2ba4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1676457285927698432/OULZA2Rp.jpg",
+                "username": "meenakhwaja117",
+                "name": "Afghan Jalebi"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257149937
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x754f46a3a51f3613f697417aea8cafda2f00ab83",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708347302140895232/kB1Xi7fz.jpg",
+                "username": "FyrellWho",
+                "name": "Fyrell ツ"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257150395
+        },
+        {
+            "trader": {
+                "address": "0x4eea03f009edbbc9bf13469733419cfeb854b762",
+                "pfpUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+                "username": "rifatalmahamud",
+                "name": "rifatalmahamud"
+            },
+            "subject": {
+                "address": "0xbd81aa865335113d8da30fc7eae8e921cb1577cd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1552042568078213123/Eza03vU_.jpg",
+                "username": "AriesLambert6",
+                "name": "Aries Lambert"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "110250000000000000",
+            "createdAt": 1696257149285
+        },
+        {
+            "trader": {
+                "address": "0x40dc6cacdb992b32d3e5732e71fc4db0cc9150d6",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1673290068474167300/Yu_Cbvo4.jpg",
+                "username": "AvihayID",
+                "name": "Hope 🛸"
+            },
+            "subject": {
+                "address": "0xe60e33f4f3e2bdca3764514e9dfe70061c2b8522",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708200268117291008/kFJ6I5KU.jpg",
+                "username": "thesahilsays3",
+                "name": "Sahil Arora"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "5062500000000000",
+            "createdAt": 1696257149461
+        },
+        {
+            "trader": {
+                "address": "0x3423ad80cefe3b9e173de7d6335b74bc4886a6e2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1694932838267928576/BHy96ZfT.jpg",
+                "username": "ZaldanaAngel",
+                "name": "Angel Zal"
+            },
+            "subject": {
+                "address": "0x1be56a2088fa0b53352d031cede2b0103f2762fd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708811053713539072/B-bkdnZi.jpg",
+                "username": "veyraina",
+                "name": "vey.ETH 💰💎"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257149567
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x3b725affb600617d2edadc0c79a7af9e6320dac8",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1528679484421197824/94v0MNXw.jpg",
+                "username": "0XHao1",
+                "name": "koda9966.eth | AGNI Finance(🔥,🔥)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "6250000000000000",
+            "createdAt": 1696257144518
+        },
+        {
+            "trader": {
+                "address": "0x8f48e07202afd1d0af1548edfc081563547e79eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655860083983626241/imNs1znd.jpg",
+                "username": "cryptojamie7",
+                "name": "CryptoJamie"
+            },
+            "subject": {
+                "address": "0x84965aa2c70d46d9dda6398577d2a88ac63ced22",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708849255325036544/D6e3IPYn.jpg",
+                "username": "TheLab_L",
+                "name": "The Lab (Trading Bot)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257143189
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xaaf732570b0544206c9666e19beefb1423e6b960",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522094790472441856/MrfOL-4t.jpg",
+                "username": "Virgini40142907",
+                "name": "Virginia Barrett"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257145217
+        },
+        {
+            "trader": {
+                "address": "0xf4a7564f0df196f7d07910209a2d71af0c4044aa",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708061589289435136/LncQnfSS.jpg",
+                "username": "FrenTechMempool",
+                "name": "Friend.Tech Mempool (Bot)"
+            },
+            "subject": {
+                "address": "0x9ce890d665dc34e9b9be8ba174ed4145d05e7082",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1620250336203087872/MYxzdlRP.jpg",
+                "username": "EmWeb888",
+                "name": "Emmm(3,3)💎⚡️"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "189062500000000000",
+            "createdAt": 1696257137067
+        },
+        {
+            "trader": {
+                "address": "0x073cb9ee6f51a2a09111ea30b2d09f6d88b8f483",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1578435470463324166/5WY5e921.jpg",
+                "username": "Matej1918",
+                "name": "Matej"
+            },
+            "subject": {
+                "address": "0x2148ea04cefb41b21c6254f1a096a95934c3bead",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1700233649776377856/Rh3O6N8P.jpg",
+                "username": "TrashKatz",
+                "name": "Thong"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "16000000000000000",
+            "createdAt": 1696257137994
+        },
+        {
+            "trader": {
+                "address": "0xbbdd285bfb1af948582f8323012f1fc71a310225",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701293979654848512/C_j5bflS.png",
+                "username": "BookieDew",
+                "name": "//BookieDew | Arvīds Rasa"
+            },
+            "subject": {
+                "address": "0xecabfc05d2ec57565be025b7b63526a53302c87e",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1574219662392381440/q3YAAU28.png",
+                "username": "CryptoF1470",
+                "name": "1470.eth"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "4000000000000000",
+            "createdAt": 1696257137611
+        },
+        {
+            "trader": {
+                "address": "0x1804cf4b38a5de1924474d54051f4e0be12b3259",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1681192819946586114/D5JOhqTn.jpg",
+                "username": "punk6995",
+                "name": "Quentin"
+            },
+            "subject": {
+                "address": "0x08e5eadd330f3a50433a2c984fa102ca8164cc6e",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1637188687728455681/PsPy0EMu.jpg",
+                "username": "whynotmeNFT",
+                "name": "whynotme🍌🇫🇷"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "49000000000000000",
+            "createdAt": 1696257137252
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x710a401f3d110efc8e7f233d3af15967beb5f535",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1565795630068469763/lVcHcwhx.jpg",
+                "username": "elkayy00",
+                "name": "ELKAY."
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "5062500000000000",
+            "createdAt": 1696257137970
+        },
+        {
+            "trader": {
+                "address": "0xb86ea697fea9b70f49f49f2ee0ab2e08eb375ed2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1658106750116020224/Ezb4yFpe.png",
+                "username": "AltJaqen",
+                "name": "Alt. 💎⚡️"
+            },
+            "subject": {
+                "address": "0xdcbb4b5bdc08bb641428c5ca613c33d69530804f",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1705775140225822720/G0gJvXL8.jpg",
+                "username": "changjianwuijd",
+                "name": "Tia Davis-xrp"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257132838
+        },
+        {
+            "trader": {
+                "address": "0x50d19b23b20fedbb195615681ea6f8cd940896d4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701651603097370624/-5t_Vift.jpg",
+                "username": "swift_capital",
+                "name": "Swift Capital"
+            },
+            "subject": {
+                "address": "0x08ed0da3e429331ecc8ce16bee22070f5f82e123",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1700242528694616064/n3N2tf00.jpg",
+                "username": "Csaw07",
+                "name": "Csaw"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "126562500000000000",
+            "createdAt": 1696257132829
+        },
+        {
+            "trader": {
+                "address": "0xb1041c4413b8ee5f3caf247b735a8cf71f628cac",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1634216641306456066/NoWlTf9I.jpg",
+                "username": "lfgXAI",
+                "name": "LFG𝕏"
+            },
+            "subject": {
+                "address": "0xa17367ea44a00f091eb5bb34f3fc8bfa23bc5d2b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708744821178019840/v_-vakxv.jpg",
+                "username": "kcuong355",
+                "name": "EREN"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257132825
+        },
+        {
+            "trader": {
+                "address": "0x79ea77b351388187f7033a1ed80c9dc5e1cbb5a6",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708417030200897537/adBbGBd9.jpg",
+                "username": "FaturohmanMid",
+                "name": "Brendaaa💎⚡️"
+            },
+            "subject": {
+                "address": "0x68758fd939b35d6e50201c11d0c6eec3bdcb48dd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1707218721071046656/pUzBdUop.jpg",
+                "username": "elhamdi_ma",
+                "name": "Amine.eth 🍌"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257132883
+        },
+        {
+            "trader": {
+                "address": "0xb9a343599df3090806470a0a840b920652b4bc12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708337031120826368/nVAIYm4r.jpg",
+                "username": "phcrypto2023",
+                "name": "大不了自学"
+            },
+            "subject": {
+                "address": "0xb9a343599df3090806470a0a840b920652b4bc12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708337031120826368/nVAIYm4r.jpg",
+                "username": "phcrypto2023",
+                "name": "大不了自学"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "100000000000000000",
+            "createdAt": 1696257132848
+        },
+        {
+            "trader": {
+                "address": "0xb9a343599df3090806470a0a840b920652b4bc12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708337031120826368/nVAIYm4r.jpg",
+                "username": "phcrypto2023",
+                "name": "大不了自学"
+            },
+            "subject": {
+                "address": "0xb9a343599df3090806470a0a840b920652b4bc12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708337031120826368/nVAIYm4r.jpg",
+                "username": "phcrypto2023",
+                "name": "大不了自学"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "100000000000000000",
+            "createdAt": 1696257132848
+        },
+        {
+            "trader": {
+                "address": "0xb9a343599df3090806470a0a840b920652b4bc12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708337031120826368/nVAIYm4r.jpg",
+                "username": "phcrypto2023",
+                "name": "大不了自学"
+            },
+            "subject": {
+                "address": "0xb9a343599df3090806470a0a840b920652b4bc12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708337031120826368/nVAIYm4r.jpg",
+                "username": "phcrypto2023",
+                "name": "大不了自学"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "100000000000000000",
+            "createdAt": 1696257132848
+        },
+        {
+            "trader": {
+                "address": "0xb9a343599df3090806470a0a840b920652b4bc12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708337031120826368/nVAIYm4r.jpg",
+                "username": "phcrypto2023",
+                "name": "大不了自学"
+            },
+            "subject": {
+                "address": "0xb9a343599df3090806470a0a840b920652b4bc12",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708337031120826368/nVAIYm4r.jpg",
+                "username": "phcrypto2023",
+                "name": "大不了自学"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "100000000000000000",
+            "createdAt": 1696257132848
+        },
+        {
+            "trader": {
+                "address": "0x4df8e42c97929f7485f7c153db7077a34e34ac8a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1638581955364102168/RuRKS88p.jpg",
+                "username": "dsKevvv",
+                "name": "Kourokami"
+            },
+            "subject": {
+                "address": "0x1e5d2ddc46849395b91b003083e067ed7363d3a7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1706188688923963392/Byma6nRI.png",
+                "username": "yhopak1",
+                "name": "manager"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "18062500000000000",
+            "createdAt": 1696257132842
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xfe22858d327916457fcb94279ebdff7372cb198d",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1607614504564817922/dXyZMCAa.jpg",
+                "username": "fomoking2",
+                "name": "fomoking"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1562500000000000",
+            "createdAt": 1696257132850
+        },
+        {
+            "trader": {
+                "address": "0x77a2ae3dfd75bff2f2dcbc17e6952bb5c101a6b8",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1698412981036417024/O077KsTg.jpg",
+                "username": "MrDevil1893623",
+                "name": "Devil.eth"
+            },
+            "subject": {
+                "address": "0xb4237c1c6ec9f7deeeecaadce7aa2210449c609b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1600507218599763974/Q9tZ-oH9.jpg",
+                "username": "kelxyz_",
+                "name": "kel 🚧"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "30250000000000000",
+            "createdAt": 1696257127861
+        },
+        {
+            "trader": {
+                "address": "0x7626bd73be0b708927fa12b062fb3d65b8faba6b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701993253950611460/3VlpCxBz.jpg",
+                "username": "const_phoenixed",
+                "name": "constant"
+            },
+            "subject": {
+                "address": "0xc36509858320d7abad06575fd8a6d3f4cb2dabd1",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1679955285040074755/CqkGx-Ie.jpg",
+                "username": "asn7_2",
+                "name": "asn"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "7562500000000000",
+            "createdAt": 1696257127905
+        },
+        {
+            "trader": {
+                "address": "0xf9c0cc0ffd4430025ec89a732b3cf4dd1c6dd546",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1629637629896699904/lEPO1st_.jpg",
+                "username": "tarame_000",
+                "name": "たらめ!"
+            },
+            "subject": {
+                "address": "0x110132518983d4d3f43bfb1a02727bd0bf6acc56",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708571716971278336/y9XpzECQ.png",
+                "username": "zhu_mai99011",
+                "name": "主要买家经理💶💸"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257127876
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x4a1afad10a836ce3daf2baff6e0e6c64828d68d3",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1702391977587748864/Y4CUUS_y.jpg",
+                "username": "Bhuvajaydip3",
+                "name": "Bhuva jaydip"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "9000000000000000",
+            "createdAt": 1696257127869
+        },
+        {
+            "trader": {
+                "address": "0x7b07ab5d3db0f53271e65fd9f637586bffbdd607",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1641348546858455041/q9cBmmzq.jpg",
+                "username": "akakiseisai3",
+                "name": "ドナルド・フジタ"
+            },
+            "subject": {
+                "address": "0x38542cca6b08225bb6f91878489a6e40c74c23c3",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708502359301849088/-Kp8JaEA.jpg",
+                "username": "noturmrbeast",
+                "name": "Mr Beast"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257127859
+        },
+        {
+            "trader": {
+                "address": "0x8f48e07202afd1d0af1548edfc081563547e79eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655860083983626241/imNs1znd.jpg",
+                "username": "cryptojamie7",
+                "name": "CryptoJamie"
+            },
+            "subject": {
+                "address": "0xdb7de64f938538e38a3dc6f64a215bf674b64a10",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1705460507795181568/zdohNQAx.jpg",
+                "username": "SBaldasaro15667",
+                "name": "Senem Baldasaro"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257124412
+        },
+        {
+            "trader": {
+                "address": "0x683d961051c1903faa63898cfe7390ec3d8766c6",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1702742276961869824/FOulciYF.jpg",
+                "username": "ringring_nft",
+                "name": "ringring🛎️"
+            },
+            "subject": {
+                "address": "0xd5cd22aed78484b1a3765033d550240a7f1f43df",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1702477641918595072/l0Be53SL.jpg",
+                "username": "Milerbtc",
+                "name": "广告位招商.ETH"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "1139062500000000000",
+            "createdAt": 1696257124492
+        },
+        {
+            "trader": {
+                "address": "0x46defb9038ede1585f1136f02562a2567a66d203",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1583070122800988161/g_HQY2LT.jpg",
+                "username": "AndreiKhmara",
+                "name": "Андрей Хмара(💙,🧡) \"🛸\""
+            },
+            "subject": {
+                "address": "0x4eea03f009edbbc9bf13469733419cfeb854b762",
+                "pfpUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+                "username": "rifatalmahamud",
+                "name": "rifatalmahamud"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257124403
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0xc6f4defae9bc6ac7533a7a9816b7841d840004ec",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522077205509320704/-mx5BM8J.png",
+                "username": "august_larkin",
+                "name": "August Larkin"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257124414
+        },
+        {
+            "trader": {
+                "address": "0x4e04ec4d7bcde4327e3560b036904f4fb6e3436a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701604149044084736/epewJwK2.jpg",
+                "username": "PaoloDiMedici",
+                "name": "P.G."
+            },
+            "subject": {
+                "address": "0x4e04ec4d7bcde4327e3560b036904f4fb6e3436a",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1701604149044084736/epewJwK2.jpg",
+                "username": "PaoloDiMedici",
+                "name": "P.G."
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "81000000000000000",
+            "createdAt": 1696257124543
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x33686ceb753909d2fc2fc60ad5cfaf3e3078dcc5",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1659393616039772173/SzURpk0Z.jpg",
+                "username": "iiamooo",
+                "name": "moobae 🐄"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257124478
+        },
+        {
+            "trader": {
+                "address": "0x31602dc53fd3fe915e1dfee27c778670e2b1f402",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1696227966588698625/uvOXa12l.jpg",
+                "username": "qnyjin1",
+                "name": "Byron｜SONE ｜ 💎⚡️"
+            },
+            "subject": {
+                "address": "0x8412cddec1074faab94a1fdf11e30f523bd593c4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1704811521950601216/VmkwJGQY.jpg",
+                "username": "0xMoew",
+                "name": "0xMeow"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "144000000000000000",
+            "createdAt": 1696257120717
+        },
+        {
+            "trader": {
+                "address": "0x2627baea6ae1c37d5138fe05cd329e3e0be45289",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1653701553621188608/lCcupOeU.jpg",
+                "username": "yn00fx",
+                "name": "サムよねちゃんマン🐐"
+            },
+            "subject": {
+                "address": "0x97353d352022eafeb9451c1098d9fab3513d5a3b",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1517675780960321536/NrfPZdfG.jpg",
+                "username": "IKAmoon_BTC",
+                "name": "SplaMoon🌕(🖤,🤍)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "45562500000000000",
+            "createdAt": 1696257120766
+        },
+        {
+            "trader": {
+                "address": "0x648a08ad2cd3b6833c7161f132cb02d3c753afe0",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1703975555769696256/BGNSglxg.jpg",
+                "username": "Sharkcrypto143",
+                "name": "Shark Crypto Analyst"
+            },
+            "subject": {
+                "address": "0x02051b048fb127b67bfa66a0986eeba768feb6a0",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1672409953552723972/A7kvJrpN.jpg",
+                "username": "wes_gross1",
+                "name": "Wes#FT"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "3062500000000000",
+            "createdAt": 1696257120781
+        },
+        {
+            "trader": {
+                "address": "0x4cbb622af1af9b7a82aa0d98852697cba404baa2",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1704266990968360960/WdI0Ui5d.jpg",
+                "username": "awsmkhalikof",
+                "name": "khalikof"
+            },
+            "subject": {
+                "address": "0x9ce890d665dc34e9b9be8ba174ed4145d05e7082",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1620250336203087872/MYxzdlRP.jpg",
+                "username": "EmWeb888",
+                "name": "Emmm(3,3)💎⚡️"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "196000000000000000",
+            "createdAt": 1696257120733
+        },
+        {
+            "trader": {
+                "address": "0x4eea03f009edbbc9bf13469733419cfeb854b762",
+                "pfpUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile.png",
+                "username": "rifatalmahamud",
+                "name": "rifatalmahamud"
+            },
+            "subject": {
+                "address": "0xbd81aa865335113d8da30fc7eae8e921cb1577cd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1552042568078213123/Eza03vU_.jpg",
+                "username": "AriesLambert6",
+                "name": "Aries Lambert"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "105062500000000000",
+            "createdAt": 1696257120749
+        },
+        {
+            "trader": {
+                "address": "0x78e8fd82ce39e405e0a2f1e764a8138d010c6a48",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1700122643171610624/OhIeRqXj.jpg",
+                "username": "V3zir04",
+                "name": "V3z!r ❒ 🛸"
+            },
+            "subject": {
+                "address": "0x028daabf177edba2979af15015c05162409a10bb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1472813009831555072/HR09jRnY.jpg",
+                "username": "goodpilas",
+                "name": "GoodPilas"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257120747
+        },
+        {
+            "trader": {
+                "address": "0x84965aa2c70d46d9dda6398577d2a88ac63ced22",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708849255325036544/D6e3IPYn.jpg",
+                "username": "TheLab_L",
+                "name": "The Lab (Trading Bot)"
+            },
+            "subject": {
+                "address": "0x84965aa2c70d46d9dda6398577d2a88ac63ced22",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708849255325036544/D6e3IPYn.jpg",
+                "username": "TheLab_L",
+                "name": "The Lab (Trading Bot)"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257120767
+        },
+        {
+            "trader": {
+                "address": "0xbb7b7d86b24ebc9a3b3a50ed5b61ae33b12d7845",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1622865074485612544/ffcQaHUt.jpg",
+                "username": "mMVgnWZvuvg1GeD",
+                "name": "罗🌘(L3, ❄️)🤙"
+            },
+            "subject": {
+                "address": "0x6ce30d7ea0dc75f0179c2e36114b56bf5e6c2ba4",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1676457285927698432/OULZA2Rp.jpg",
+                "username": "meenakhwaja117",
+                "name": "Afghan Jalebi"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257117309
+        },
+        {
+            "trader": {
+                "address": "0x48677ab98956926ece1b8bdea98a9a8aea8b64ab",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1499675210798465024/Lm0ciCQN.jpg",
+                "username": "CCCCCCHIOE",
+                "name": "chioe🍪🍕"
+            },
+            "subject": {
+                "address": "0xebf59ecf5aa88694c144d4617e35e81588774c75",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/611525691700592640/mOH0jerh.jpg",
+                "username": "gemmilldaniel",
+                "name": "nhoJ"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "361000000000000000",
+            "createdAt": 1696257117292
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x5fd132ab6f7ecfcfc304266d96fa3980ec6135ee",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1522113947909820416/S1pIP-LA.jpg",
+                "username": "SkShaki11",
+                "name": "Salma Jahan"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "1000000000000000",
+            "createdAt": 1696257117350
+        },
+        {
+            "trader": {
+                "address": "0x28061af8146745337f2a2a8c7bdcfb06a1074243",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1695334991297679360/rWOwY9Fe.jpg",
+                "username": "BruisedOxalis",
+                "name": "Ox 💎⚡"
+            },
+            "subject": {
+                "address": "0x0d3eccaad682af20054d00c770d39b21c25cd347",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708569508347310080/6uXZKUE6.jpg",
+                "username": "JesuslViivas",
+                "name": "Jesus"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "250000000000000",
+            "createdAt": 1696257117315
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x3c7dc8abdc1755c082e626afaf00c7e3524fe0a7",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1656024608934436878/tC2jvH93.jpg",
+                "username": "snoop_sol",
+                "name": "Snoop"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "5062500000000000",
+            "createdAt": 1696257117291
+        },
+        {
+            "trader": {
+                "address": "0x50c4178107e0d67841c168168d5dfb1a0b40955c",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1681758787731062784/WM3bkmsl.jpg",
+                "username": "BitmanTW",
+                "name": "Bitman.lens (🌸, 🌿)"
+            },
+            "subject": {
+                "address": "0x739edbbfaed47aa1a0d9ba916eac3c8e56c6f979",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1679009660915838976/ScWf10IL.jpg",
+                "username": "boredhefner",
+                "name": "Bored (buckethead) Hefner"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "95062500000000000",
+            "createdAt": 1696257112410
+        },
+        {
+            "trader": {
+                "address": "0x8f48e07202afd1d0af1548edfc081563547e79eb",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1655860083983626241/imNs1znd.jpg",
+                "username": "cryptojamie7",
+                "name": "CryptoJamie"
+            },
+            "subject": {
+                "address": "0x110132518983d4d3f43bfb1a02727bd0bf6acc56",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708571716971278336/y9XpzECQ.png",
+                "username": "zhu_mai99011",
+                "name": "主要买家经理💶💸"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "62500000000000",
+            "createdAt": 1696257112400
+        },
+        {
+            "trader": {
+                "address": "0xb18ff78c9b4be6a7390e4db0868207f510643e57",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1708450162136481792/Q-zc0Q3w.png",
+                "username": "cryptoboydt_eth",
+                "name": "CryptoBoyDT.eth 🦀🪴🫡"
+            },
+            "subject": {
+                "address": "0x5c08ddf7ed3fb16673d29f6af66c517a50813c21",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1686867442851573760/i2kbcrO3.jpg",
+                "username": "MichelleRe12654",
+                "name": "Michelle Reyes"
+            },
+            "isBuy": false,
+            "shareAmount": "1",
+            "ethAmount": "562500000000000",
+            "createdAt": 1696257112365
+        },
+        {
+            "trader": {
+                "address": "0x5479f127a4d594208549c86f4b4903a1175a0311",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1670862443055321088/BWiKSdKC.jpg",
+                "username": "HerroCrypto",
+                "name": "Herro"
+            },
+            "subject": {
+                "address": "0x68758fd939b35d6e50201c11d0c6eec3bdcb48dd",
+                "pfpUrl": "https://pbs.twimg.com/profile_images/1707218721071046656/pUzBdUop.jpg",
+                "username": "elhamdi_ma",
+                "name": "Amine.eth 🍌"
+            },
+            "isBuy": true,
+            "shareAmount": "1",
+            "ethAmount": "2250000000000000",
+            "createdAt": 1696257112375
+        }
+    ],
+    "nextPageStart": 0
+}

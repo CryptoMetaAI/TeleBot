@@ -1,0 +1,30 @@
+{
+  "name": "openai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-lock": "^1.4.0",
+    "bignumber.js": "^9.1.2",
+    "chatgpt": "^4.2.0",
+    "dotenv": "^16.0.3",
+    "eth-sig-util": "^3.0.1",
+    "ethereum-public-key-to-address": "^0.0.5",
+    "ethereumjs-abi": "^0.6.8",
+    "ethers": "^6.2.0",
+    "log4js": "^6.8.0",
+    "log4js-node-mongodb": "^2.2.1",
+    "mongodb": "^5.0.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^3.2.1",
+    "viem": "^1.10.14",
+    "wagmi": "^1.4.2",
+    "web3": "^1.8.2"
+  }
+}
