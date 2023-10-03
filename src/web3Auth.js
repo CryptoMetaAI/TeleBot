@@ -2,10 +2,10 @@ import Web3 from "web3";
 import * as dotenv from 'dotenv';
 import abi from 'ethereumjs-abi';
 import { recoverPersonalSignature } from 'eth-sig-util';
-import { mnemonicToAccount } from 'viem/accounts'
+import { mnemonicToAccount, english, generateMnemonic } from 'viem/accounts'
 import { createWalletClient, parseGwei, parseEther } from 'viem'
 import { createPublicClient, http, encodeEventTopics, decodeEventLog, isAddress } from 'viem'
-import { baseGoerli, base } from 'viem/chains'
+import { baseGoerli, base } from 'viem/chains';
 import BotStrategy from './contracts/BotStrategy.json' assert { type: 'json' };
 import ProxyAccount from './contracts/ProxyAccount.json' assert { type: 'json' };
 import ProxyAccountFactory from './contracts/ProxyAccountFactory.json' assert { type: 'json' };
@@ -14,8 +14,8 @@ import BigNumber from "bignumber.js";
 dotenv.config()
 
 const HARDENED_OFFSET = 0x80000000;
-const web3 = new Web3('https://eth-mainnet.g.alchemy.com/v2/v0PproF8lbsKkBDLqruaGyMq2OK-3_f5'); //'https://nd-645-530-838.p2pify.com/181a9755ad317732b98d898de7107adf'
-const { mnemonic, alchemyBaseGoerliKey } = process.env;
+const web3 = new Web3();
+const { mnemonic, alchemyBaseGoerliKey, alchemyBaseMainnetKey, baseMainnet } = process.env;
 
 let database;
 let logger;
@@ -23,19 +23,19 @@ let allTodoProxyAccounts = []
 const proxyAccountExeStat = {}
 const localAccountInExecuting = {}
 
-const transport = http(`https://base-goerli.g.alchemy.com/v2/${alchemyBaseGoerliKey}`)
-
+const transport = baseMainnet == "1" ? http(`https://base-mainnet.g.alchemy.com/v2/${alchemyBaseMainnetKey}`)
+                                        :
+                                       http(`https://base-goerli.g.alchemy.com/v2/${alchemyBaseGoerliKey}`)
+// 
 const publicClient = createPublicClient({
-  chain: baseGoerli,
+  chain: baseMainnet == "1" ?  base : baseGoerli,
   transport,
 })
 
 const walletClient = createWalletClient({
-    chain: baseGoerli,
+    chain: baseMainnet == "1" ? base : baseGoerli,
     transport
 })
-// console.log(publicClient)
-// const vipContract = new web3.eth.Contract(vipABI, vipContractAddr);
 
 export function getTelegramId(userName) {
     const buf = Buffer.from('' + userName, 'utf8');
@@ -317,3 +317,4 @@ export function exeAllTodoProxyAccount() {
 // console.log(await getAccountBalances(['0x177CfCD9286B30D27122e9b308140E14Bc353a05', '0xe2D09de8ff38C38aB943b957E1fEDf4E4192Ed82'], true))
 
 //console.log(getUserAccount(72872807, 2).address);
+//console.log(generateMnemonic(english))
