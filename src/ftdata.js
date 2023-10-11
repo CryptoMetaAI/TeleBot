@@ -9,8 +9,8 @@ import ProxyAccount from './contracts/ProxyAccount.json' assert { type: 'json' }
 import FriendtechSharesV1 from './contracts/FriendtechSharesV1.json' assert { type: 'json' };
 import ProxyAccountFactory from './contracts/ProxyAccountFactory.json' assert { type: 'json' };
 import BigNumber from "bignumber.js";
-import userInfo from './assets/userinfo.json' assert { type: 'json' };
-import ftInfo from './assets/ftInfo.json' assert { type: 'json' };
+import userInfo from '../assets/userinfo.json' assert { type: 'json' };
+import ftInfo from '../assets/ftInfo.json' assert { type: 'json' };
 
 dotenv.config()
 

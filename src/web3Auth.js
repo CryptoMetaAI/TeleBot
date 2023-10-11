@@ -115,6 +115,7 @@ export function monitorAddBotStrategyEvent() {
 
 export function monitorKeyAmount() {
     const allMonitors = database.getAllMonitors();
+    logger.info(`total monitor number:${allMonitors.length}`)
     const contractAddr = FriendtechSharesV1.address[publicClient.chain.name];
     const eventName = 'Trade';
     publicClient.watchContractEvent({ 

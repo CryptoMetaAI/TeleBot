@@ -6,6 +6,7 @@
 .pnp.js
 /.next
 /assets
+/src/*.log
 
 # testing
 /coverage
