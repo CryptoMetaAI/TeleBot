@@ -115,7 +115,7 @@ export async function monitorAddBotStrategyEvent() {
 }
 
 export async function monitorKeyAmount() {
-    setTimeout(async () => {
+    setInterval(async () => {
         const allMonitors = await database.getAllMonitors();
         logger.info(`total monitor number:${allMonitors.length}`)
         monitorMap = {}
