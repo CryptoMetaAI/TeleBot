@@ -15,7 +15,8 @@ export class Database {
         this.tgLocalAccount = this.mongodbo.collection("tgLocalAccount");  // tgId, local account addr, index(0/1/2)
         this.strategyExeRecord = this.mongodbo.collection("strategyExeRecord");
         this.tgProxyAccount = this.mongodbo.collection("tgProxyAccount");
-        //this.proxyAccounts = this.mongodbo.collection('porxyAccount');  // proxy account
+        this.ftSubjectInfo = this.mongodbo.collection('ftSubjectInfo'); 
+        this.monitors = this.mongodbo.collection('monitors'); 
         //this.baseInfo = this.mongodbo.collection('baseInfo');  // base info: chainId, contractAddr, event, last sync block number
     }
 
@@ -58,6 +59,26 @@ export class Database {
         return proxyAccounts.toArray();
     }
 
+    async insertMonitor(monitor) {
+        await this.monitors.insertOne(monitor);
+    }
+
+    async removeMonitor(chatId, monitorId) {
+        await this.monitors.deleteOne({id: monitorId, chatId});
+    }
+
+    async getMonitorsOfOneUser(searchKey) {
+        const projection = { _id: 0 };
+        const monitors = this.monitors.find(searchKey).project(projection);
+        return monitors.toArray();
+    }
+
+    async getAllMonitors() {
+        const projection = { _id: 0 };
+        const monitors = this.monitors.find().project(projection);
+        return monitors.toArray();
+    }
+
     async isTgProxyAccountExist(telegramId, proxyAccount) {
         const result = await this.tgProxyAccount.findOne({telegramId, proxyAccount});
         return result != null;
@@ -78,6 +99,54 @@ export class Database {
     async getLastBlockNumber(chainId, contractAddr, event) {
         const result = await this.baseInfo.findOne({chainId, contractAddr, event});
         return result;
+    }
+
+    async insertFtSubjectInfos(ftSubjectInfos) {
+        await this.ftSubjectInfo.insertMany(ftSubjectInfos);
+    }
+
+    async getFtSubjectInfo(searchKey) {
+        const result = this.ftSubjectInfo.find(searchKey);
+        return result.toArray();
+    }
+
+    async getPartialFtSubjectInfo(property1, property2, property3) {
+        const projection = { [property1]: 1, [property2]: 1, [property3]: 1 };
+        const result = this.ftSubjectInfo.find().project(projection);
+        return result.toArray();
+    }
+
+    async getAllValueInFt(propertyName) {
+        // const addressSet = await this.ftSubjectInfo.distinct('address');
+        // return addressSet;
+
+        const aggregationPipeline = [{ $group: { _id: null, values: { $addToSet: `$${propertyName}` } } }];
+        const aggregationCursor = this.ftSubjectInfo.aggregate(aggregationPipeline, { allowDiskUse: true });
+
+        const allValues = [];
+        while (await aggregationCursor.hasNext()) {
+            const result = await aggregationCursor.next();
+            allValues.push(result.values);
+        }
+
+        return allValues.flat();
+    }
+
+    async deleteFtRowsWithSameValue(propertyName) {
+        const duplicateValues = await this.ftSubjectInfo.aggregate([
+            { $group: { _id: `$${propertyName}`, count: { $sum: 1 }, ids: { $push: '$_id' } } },
+            { $match: { count: { $gt: 1 } } }
+        ]).toArray();
+        console.log('duplicate values', duplicateValues)
+        
+        let deletedCount = 0;
+        for (const { ids } of duplicateValues) {
+            const [keepId, ...removeIds] = ids;
+            await this.ftSubjectInfo.deleteMany({ _id: { $in: removeIds } });
+            deletedCount += removeIds.length;
+        }
+    
+        return deletedCount;
     }
 
     async getAllSocialEnableIds() {

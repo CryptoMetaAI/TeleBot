@@ -137,7 +137,32 @@ export class TelegramChatBot {
             break;  
           case msg.text.startsWith('/strategyinfo'):
             await this.bot.sendMessage(msg.chat.id, 'This functionality will be coming soon.');
+            break; 
+          
+          case msg.text.startsWith('/addmonitor'):
+            const monitor = JSON.parse(msg.text.substring('/addmonitor'.length).trim());            
+            monitor.chatId = msg.chat.id;
+            await this.mongodb.insertMonitor(monitor);
+            await this.bot.sendMessage(msg.chat.id, 'Success to add the monitor.');
+            break; 
+            
+          case msg.text.startsWith('/delmonitor'):
+            const monitorId = parseInt(msg.text.substring('/delmonitor'.length).trim());
+            const monitors = await this.mongodb.getMonitorsOfOneUser({id: monitorId, chatId: msg.chat.id});
+            if (monitors.length != 1) {
+              await this.bot.sendMessage(msg.chat.id, `Please input the correct id: ${monitorId}, ${monitors.length}`);            
+            } else {
+              await this.mongodb.removeMonitor(msg.chat.id, monitorId);
+              await this.bot.sendMessage(msg.chat.id, 'Success to delete the monitor.');            
+            }
             break;  
+
+
+          case msg.text.startsWith('/listmonitors'):
+            const myMonitors = await this.mongodb.getMonitorsOfOneUser({chatId: msg.chat.id});
+            await this.bot.sendMessage(msg.chat.id, `Your ${myMonitors.length} monitors: ${JSON.stringify(myMonitors)}`);
+            break; 
+
           case msg.text.startsWith('/help'):
             await this.bot.sendMessage(msg.chat.id, 'Command List[命令列表]:\
                                                    \n/balances - get balances of accounts [获取账户余额]\
@@ -150,5 +175,9 @@ export class TelegramChatBot {
             await this.bot.sendMessage(msg.chat.id, `😭I don't quite understand what you mean. [我不是很明白您的意思。]`);
             break;
         }
-    }      
+    }    
+    
+    async setMsgToUser(chatId, msg) {
+      await this.bot.sendMessage(chatId, msg);
+    }
 }

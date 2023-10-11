@@ -18,8 +18,10 @@ const telegramBot = new TelegramChatBot(friendexbot_token, mongodb, logger, bInL
 telegramBot.startListen();
 
 web3Auth.setDB(mongodb);
+web3Auth.setTgBot(telegramBot);
 web3Auth.setLogger(logger);
 
+await web3Auth.monitorKeyAmount();
 await web3Auth.monitorAddBotStrategyEvent();
 await web3Auth.syncAllTodoProxyAccounts();
 web3Auth.exeAllTodoProxyAccount();

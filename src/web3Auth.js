@@ -8,6 +8,7 @@ import { createPublicClient, http, encodeEventTopics, decodeEventLog, isAddress 
 import { baseGoerli, base } from 'viem/chains';
 import BotStrategy from './contracts/BotStrategy.json' assert { type: 'json' };
 import ProxyAccount from './contracts/ProxyAccount.json' assert { type: 'json' };
+import FriendtechSharesV1 from './contracts/FriendtechSharesV1.json' assert { type: 'json' };
 import ProxyAccountFactory from './contracts/ProxyAccountFactory.json' assert { type: 'json' };
 import BigNumber from "bignumber.js";
 
@@ -19,6 +20,7 @@ const { mnemonic, alchemyBaseGoerliKey, alchemyBaseMainnetKey, baseMainnet } = p
 
 let database;
 let logger;
+let telegramBot;
 let allTodoProxyAccounts = []
 const proxyAccountExeStat = {}
 const localAccountInExecuting = {}
@@ -46,6 +48,10 @@ export function getTelegramId(userName) {
 
 export function setDB(db) {
     database = db;
+}
+
+export function setTgBot(tgBot) {
+    telegramBot = tgBot;
 }
 
 export function setLogger(logger_) {
@@ -103,6 +109,33 @@ export function monitorAddBotStrategyEvent() {
             if (proxyAccountExeStat[proxyAccount] == null) {
                 exeProxyAccountInLoop(proxyAccount);
             }
+        }
+    })
+}
+
+export function monitorKeyAmount() {
+    const allMonitors = database.getAllMonitors();
+    const contractAddr = FriendtechSharesV1.address[publicClient.chain.name];
+    const eventName = 'Trade';
+    publicClient.watchContractEvent({ 
+        address: contractAddr,
+        abi: FriendtechSharesV1.abi,
+        eventName,
+        onLogs: logs => {
+            const kolAddr = logs[0].args.subject;
+            const supply = logs[0].args.supply;
+            logger.debug(`${kolAddr}(total key = ${supply}): ${logs[0].args.isBuy ? 'buy' : 'sell'} ${logs[0].args.shareAmount}`)
+            allMonitors.forEach(monitor => {
+                if (monitor.chainId == publicClient.chain.id) {
+                    if (kolAddr.toUpperCase() == monitor.kolAddr.toUpperCase() 
+                    && supply >= monitor.triggerCondition.fromKey
+                    && supply < monitor.triggerCondition.toKey) {
+                        const msg = `Total supply of Key(https://www.friend.tech/rooms/${monitor.kolAddr}): ${supply}.`;
+                        this.telegramBot.setMsgToUser(monitor.chatId, msg);
+                        logger.info(`${monitor.chatId}: ${msg}`)
+                    }
+                }
+            })
         }
     })
 }
@@ -318,3 +351,6 @@ export function exeAllTodoProxyAccount() {
 
 //console.log(getUserAccount(72872807, 2).address);
 //console.log(generateMnemonic(english))
+
+
+
