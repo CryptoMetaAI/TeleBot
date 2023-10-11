@@ -177,7 +177,7 @@ export class TelegramChatBot {
         }
     }    
     
-    async setMsgToUser(chatId, msg) {
+    async sendMsgToUser(chatId, msg) {
       await this.bot.sendMessage(chatId, msg);
     }
 }
