@@ -24,6 +24,7 @@ let telegramBot;
 let allTodoProxyAccounts = []
 const proxyAccountExeStat = {}
 const localAccountInExecuting = {}
+let monitorMap = {}
 
 const transport = baseMainnet == "1" ? http(`https://base-mainnet.g.alchemy.com/v2/${alchemyBaseMainnetKey}`)
                                         :
@@ -114,10 +115,13 @@ export async function monitorAddBotStrategyEvent() {
 }
 
 export async function monitorKeyAmount() {
-    const allMonitors = await database.getAllMonitors();
-    logger.info(`total monitor number:${allMonitors.length}`)
-    const monitorMap = {}
-    allMonitors.forEach(monitor => monitorMap[monitor.kolAddr.toLowerCase()] = monitor);
+    setTimeout(async () => {
+        const allMonitors = await database.getAllMonitors();
+        logger.info(`total monitor number:${allMonitors.length}`)
+        monitorMap = {}
+        allMonitors.forEach(monitor => monitorMap[monitor.kolAddr.toLowerCase()] = monitor);
+    }, 3000);
+        
     const contractAddr = FriendtechSharesV1.address[publicClient.chain.name];
     const eventName = 'Trade';
     publicClient.watchContractEvent({ 
