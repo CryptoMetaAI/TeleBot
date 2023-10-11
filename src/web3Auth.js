@@ -92,7 +92,7 @@ export async function getAccountBalances(accounts, bReadable) {
     return accountBalances; 
 }
 
-export function monitorAddBotStrategyEvent() {
+export async function monitorAddBotStrategyEvent() {
     const contractAddr = BotStrategy.address[publicClient.chain.name];
     const eventName = 'AddStrategy';
     publicClient.watchContractEvent({ 
@@ -113,8 +113,8 @@ export function monitorAddBotStrategyEvent() {
     })
 }
 
-export function monitorKeyAmount() {
-    const allMonitors = database.getAllMonitors();
+export async function monitorKeyAmount() {
+    const allMonitors = await database.getAllMonitors();
     logger.info(`total monitor number:${allMonitors.length}`)
     const contractAddr = FriendtechSharesV1.address[publicClient.chain.name];
     const eventName = 'Trade';
