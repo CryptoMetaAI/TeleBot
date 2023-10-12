@@ -116,10 +116,13 @@ export async function monitorAddBotStrategyEvent() {
 
 export async function monitorKeyAmount() {
     setInterval(async () => {
+        const lastNum = Object.keys(monitorMap).length;
         const allMonitors = await database.getAllMonitors();
-        logger.info(`total monitor number:${allMonitors.length}`)
         monitorMap = {}
         allMonitors.forEach(monitor => monitorMap[monitor.kolAddr.toLowerCase()] = monitor);
+        if (Object.keys(monitorMap).length != lastNum) {
+            logger.info(`total monitor number:${allMonitors.length}`)
+        }
     }, 3000);
         
     const contractAddr = FriendtechSharesV1.address[publicClient.chain.name];
@@ -135,10 +138,13 @@ export async function monitorKeyAmount() {
                 logger.debug(`${kolAddr}(total key = ${supply}): ${logs[0].args.isBuy ? 'buy' : 'sell'} ${logs[0].args.shareAmount}`)
                 if (monitorMap[kolAddr] != null) {
                     const monitor = monitorMap[kolAddr];
-                    if (monitor.chainId == publicClient.chain.id && supply >= monitor.triggerCondition.keyFrom && supply < monitor.triggerCondition.keyTo) {
-                        const msg = `Total supply of Key(https://www.friend.tech/rooms/${monitor.kolAddr}): ${supply}.`;
-                        this.telegramBot.sendMsgToUser(monitor.chatId, msg);
+                    logger.debug(`${kolAddr} enter: ${monitor.chainId == publicClient.chain.id} && ${supply >= monitor.triggerCondition.keyFrom} && ${supply < monitor.triggerCondition.keyTo}`)
+                    if (monitor.chainId == publicClient.chain.id 
+                    && supply >= monitor.triggerCondition.keyFrom 
+                    && supply < monitor.triggerCondition.keyTo) {
+                        const msg = `Total Key of ${monitor.twitterId}(https://www.friend.tech/rooms/${monitor.kolAddr}): ${supply}.`;
                         logger.info(`${monitor.chatId}: ${msg}`)
+                        telegramBot.sendMsgToUser(monitor.chatId, msg);
                     }
                 }
             })

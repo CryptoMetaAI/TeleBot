@@ -178,6 +178,10 @@ export class TelegramChatBot {
     }    
     
     async sendMsgToUser(chatId, msg) {
-      await this.bot.sendMessage(chatId, msg);
+      try {
+        await this.bot.sendMessage(chatId, msg);
+      } catch (error) {
+        this.logger.error(error.message);
+      }
     }
 }
