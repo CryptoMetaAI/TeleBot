@@ -16,7 +16,6 @@ await mongodb.init();
 
 const telegramBot = new TelegramChatBot(friendexbot_token, mongodb, logger, bInLocal == '1');
 telegramBot.startListen();
-//telegramBot.sendMsgToUser(721373352, 'Total supply of Key(https://www.friend.tech/rooms/0xc9f2e8a00e76689e14ba91aac97f8d6c4d6cd657): 32.');
 
 
 web3Auth.setDB(mongodb);
